@@ -16,7 +16,9 @@
 </a>
 
 
+<a href="https://github-profile-trophy.vercel.app/">
 <img height=50 src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=Dark&no-frame=false&title=Stars,Followers,Commits&column=-1"/>
+</a>
 
 
 <p align="center">
