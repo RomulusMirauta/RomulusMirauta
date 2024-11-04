@@ -1,5 +1,20 @@
+<!-- Username = RomulusMirauta -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RomulusMirauta&theme=dark&hide_border=false" alt="GitHub Streak" /></a>
+
+
+
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=RomulusMirauta&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
+
+
+
+
+<a href="https://gh-stats-gen.vercel.app/">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
+
+
 
 ![RomulusMirauta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false)
 
