@@ -2,12 +2,12 @@
 
 
 <a href="https://gh-stats-gen.vercel.app/">
-<img height=175 src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+<img height=185 src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
 </a>
 
 
 <a href="https://gh-stats-gen.vercel.app/">
-<img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="GitHub Top Languages" />
+<img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="GitHub Top Languages" />
 </a>
 
 
@@ -17,10 +17,10 @@
 
 
 
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=Dark&no-frame=false&title=Stars,Followers,Commits&column=-1"/>
+<img align="right" height=97 src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=Dark&no-frame=false&title=Stars,Followers,Commits&column=-1"/><br>
 
 
 <p align="center">
-  Visitor count<br>
+  <i>Visitor count</i><br>
   <img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
 </p>
