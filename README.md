@@ -20,9 +20,15 @@
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=Dark&no-frame=false&title=Stars,Followers,Commits&column=-1"/>
 </a>
 
-<a></a>
+
+
+
+
+
 
 <p align="center">
-	<i>Visitor count</i><br>
-	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
+<i>Visitor count</i><br>
+<a href="https://profile-counter.glitch.me/">
+<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
+</a>
 </p>
