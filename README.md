@@ -16,7 +16,7 @@
 </a>
 
 
-<img height=97 src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=Dark&no-frame=false&title=Stars,Followers,Commits&column=-1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=Dark&no-frame=false&title=Stars,Followers,Commits&column=-1"/>
 
 
 <p align="center">
