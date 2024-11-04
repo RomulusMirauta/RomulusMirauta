@@ -19,3 +19,6 @@ function cb(response) {
 }
 </script>
 <script async src="https://api.countapi.xyz/hit/github.comRomulusMirauta/visits?callback=cb"></script>
+
+
+![Visitor Count](https://profile-counter.glitch.me/RomulusMirauta/count.svg)
