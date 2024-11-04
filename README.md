@@ -23,6 +23,6 @@
 
 
 <p align="center">
-  <br /><i>Visitor count</i><br>
-  <img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
+	<br /><br /><i>Visitor count</i><br>
+	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
 </p>
