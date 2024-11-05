@@ -5,6 +5,7 @@
 <img height=195 src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
 </a>
 
+<br>
 
 <a href="https://gh-stats-gen.vercel.app/">
 <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="GitHub Top Languages" />
@@ -18,7 +19,7 @@
 
 
 <a href="https://github-profile-trophy.vercel.app/">
-<img align="left" height=112 src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+<img align="left" height=112 src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Stars,Followers,Commits&column=-1"/>
 </a>
 
 
