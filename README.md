@@ -2,7 +2,7 @@
 
 
 <a href="https://gh-stats-gen.vercel.app/">
-<img height=190 src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+<img height=191 src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
 </a>
 
 
