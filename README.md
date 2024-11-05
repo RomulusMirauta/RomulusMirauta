@@ -12,12 +12,12 @@
 
 
 <a href="https://gh-stats-gen.vercel.app/">
-<img align="center" height=190 src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img align="left" height=190 src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
 
 
 <a href="https://github-profile-trophy.vercel.app/">
-<img align="center" height=100 src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=Dark&no-frame=false&title=Stars,Followers,Commits&column=-1"/>
+<img align="left" height=100 src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=Dark&no-frame=false&title=Stars,Followers,Commits&column=-1"/>
 </a>
 
 
