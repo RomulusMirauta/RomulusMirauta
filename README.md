@@ -20,14 +20,7 @@
 <img align="left" height=105 src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=Dark&no-frame=false&title=Stars,Followers,Commits&column=-1"/>
 </a>
 
-
-
-
-
-
-<br><br><br><br><br><br><br>
-<br>
-
+<br><br><br><br><br><br><br><br><br>
 
 <p align="center">
 	<i>Visitor count</i><br>
