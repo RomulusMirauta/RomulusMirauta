@@ -13,7 +13,7 @@
 
 
 <a href="https://gh-stats-gen.vercel.app/">
-<img align="left" height=185 src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img align="left" height=190 src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
 
 
