@@ -27,8 +27,6 @@
 
 
 <p align="center">
-<i>Visitor count</i><br>
-<a href="https://profile-counter.glitch.me/">
-<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
-</a>
+	<i>Visitor count</i><br>
+	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
 </p>
