@@ -10,7 +10,7 @@
 
 <a href="#">
 	<img height=195
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=compact"
 		alt="GitHub Top Languages" />
 </a>
 
