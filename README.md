@@ -5,7 +5,8 @@
 	<img align="left" height=179
 		src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=86400"
 		alt="GitHub Stats" />
-</a><br>
+	<br>
+</a>
 
 
 <a href="https://gh-stats-gen.vercel.app/">
