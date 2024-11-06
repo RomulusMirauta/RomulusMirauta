@@ -9,8 +9,8 @@
 
 
 <a href="https://gh-stats-gen.vercel.app/">
-	<img height=500
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&cache_seconds=86400"
+	<img height=195
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=86400"
 		alt="GitHub Top Languages" />
 </a>
 
