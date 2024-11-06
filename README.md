@@ -18,7 +18,7 @@
 
 <a href="#">
 	<img align="left" height=150
-		src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false&cache_seconds=86400"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false&cache_seconds=86400&card_width=460"
 		alt="GitHub Streak" />
 </a>
 
