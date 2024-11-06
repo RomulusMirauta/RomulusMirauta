@@ -2,7 +2,7 @@
 
 
 <a href="#">
-	<img align="center" height=179
+	<img align="left" height=179
 		src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=86400"
 		alt="GitHub Stats" />
 </a><br>
@@ -17,14 +17,14 @@
 
 
 <a href="#">
-	<img align="center" height=150
+	<img align="left" height=150
 		src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false&cache_seconds=86400"
 		alt="GitHub Streak" />
 </a><br>
 
 
 <a href="#">
-	<img align="center" height=130
+	<img align="left" height=130
 		src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Repositories,Followers,Commits&column=-1" />
 </a><br>
 
