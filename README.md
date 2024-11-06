@@ -39,4 +39,4 @@
 
 
 
-![RomulusMirauta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
