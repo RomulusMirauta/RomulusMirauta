@@ -36,3 +36,7 @@
 	<i>Visitor count</i><br>
 	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
 </p>
+
+
+
+![RomulusMirauta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=true&layout=compact)
