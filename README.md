@@ -17,14 +17,14 @@
 
 
 <a href="#">
-	<img align="left" height=179
+	<img align="left" height=150
 		src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false&cache_seconds=86400"
 		alt="GitHub Streak" />
 </a>
 
 
 <a href="#">
-	<img align="left" height=112
+	<img align="left" height=150
 		src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Repositories,Followers,Commits&column=-1" />
 </a>
 
