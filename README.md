@@ -3,7 +3,7 @@
 
 <a href="#">
 	<img align="left" height=182
-		src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=86400&custom_title=GitHub Stats&card_width=460"
+		src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=86400&custom_title=GitHub_Stats&card_width=460"
 		alt="GitHub Stats" />
 </a>
 
