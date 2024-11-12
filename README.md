@@ -15,11 +15,6 @@
 
 
 
-[![committers.top badge](https://user-badge.committers.top/romania_private/RomulusMirauta.svg)](https://user-badge.committers.top/romania_private/RomulusMirauta)
-
-
-
-
 <br>
 
 
