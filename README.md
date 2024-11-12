@@ -1,6 +1,9 @@
 <!-- Username = RomulusMirauta -->
 
-[![committers.top badge](https://user-badge.committers.top/romania/RomulusMirauta.svg)](https://user-badge.committers.top/romania/RomulusMirauta)
+
+<p align="center">
+	[![committers.top badge](https://user-badge.committers.top/romania/RomulusMirauta.svg)](https://user-badge.committers.top/romania/RomulusMirauta)
+</p>
 
 
 
