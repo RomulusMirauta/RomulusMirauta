@@ -38,6 +38,4 @@
 </p>
 
 
-[![committers.top badge](https://user-badge.committers.top/romania/USERNAME.svg)](https://user-badge.committers.top/romania/USERNAME)
-
-[![committers.top badge](https://org-badge.committers.top/romania/ORGNAME.svg)](https://org-badge.committers.top/romania/ORGNAME)
+[![committers.top badge](https://user-badge.committers.top/romania/RomulusMirauta.svg)](https://user-badge.committers.top/romania/USERNAME)
