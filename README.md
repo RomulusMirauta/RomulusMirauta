@@ -1,23 +1,12 @@
 <!-- Username = RomulusMirauta -->
 
 
-<p align="center">
-	[![committers.top badge](https://user-badge.committers.top/romania/RomulusMirauta.svg)](https://user-badge.committers.top/romania/RomulusMirauta)
-	https://user-badge.committers.top/romania/RomulusMirauta.svg
-</p>
-
-
-
-
-<p align="center">
-	<img src="https://user-badge.committers.top/romania/RomulusMirauta.svg" />
-</p>
-
+[![committers.top badge](https://user-badge.committers.top/romania/RomulusMirauta.svg)](https://user-badge.committers.top/romania/RomulusMirauta)
 
 
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
-	<img src="https://user-badge.committers.top/romania/RomulusMirauta.svg"
-		alt="committers.top rank" />
+	<img src="https://user-badge.committers.top/romania/RomulusMirauta.svg" 
+	alt="RANK - Most active GitHub users in Romania" />
 </a>
 
 
