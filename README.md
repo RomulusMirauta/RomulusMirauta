@@ -1,5 +1,8 @@
 <!-- Username = RomulusMirauta -->
 
+[![committers.top badge](https://user-badge.committers.top/romania/RomulusMirauta.svg)](https://user-badge.committers.top/romania/USERNAME)
+
+
 
 <a href="#">
 	<img align="left" height=182
@@ -36,6 +39,3 @@
 	<i>Visitor count</i><br>
 	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
 </p>
-
-
-[![committers.top badge](https://user-badge.committers.top/romania/RomulusMirauta.svg)](https://user-badge.committers.top/romania/USERNAME)
