@@ -2,7 +2,7 @@
 
 
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
-	<img align="center" height=182
+	<img align="center" height=default
 		src="https://user-badge.committers.top/romania/RomulusMirauta.svg" 
 		alt="RANK - Most active GitHub users in Romania" />
 </a>
