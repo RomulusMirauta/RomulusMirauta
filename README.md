@@ -7,6 +7,13 @@
 </p>
 
 
+<p align="center">
+	<img src="https://user-badge.committers.top/romania/RomulusMirauta.svg" />
+</p>
+
+
+
+
 
 <a href="#">
 	<img align="left" height=182
