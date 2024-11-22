@@ -7,6 +7,7 @@
 		alt="LinkedIn" />
 </a>
 
+<br>
 
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
 	<img align="center"
@@ -22,7 +23,7 @@
 </a>
 
 
-<br>
+<br><br>
 
 
 <a href="#">
