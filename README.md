@@ -2,21 +2,21 @@
 
 
 <a href="https://www.linkedin.com/in/romulus-mirauta/">
-	<img align="right"
+	<img align="center"
 		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
 		alt="LinkedIn" />
 </a>
 
 
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
-	<img align="right"
+	<img align="center"
 		src="https://user-badge.committers.top/romania/RomulusMirauta.svg" 
 		alt="RANK - Most active GitHub users in Romania" />
 </a>
 
 
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
-	<img align="right"
+	<img align="center"
 		src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
 		alt="HackerRank" />
 </a>
