@@ -2,28 +2,28 @@
 
 
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
-	<img align="left"
+	<img align="center"
 		src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
 		alt="HackerRank" />
 </a>
 
 
 <a href="discord:@echo off">
-	<img align="left"
+	<img align="center"
 		src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" 
 		alt="Discord" />
 </a>
 
 
 <a href="mailto:romulus.mirauta1@gmail.com">
-	<img align="right"
+	<img align="center"
 		src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
 		alt="Gmail" />
 </a>
 
 
 <a href="https://www.linkedin.com/in/romulus-mirauta/">
-	<img align="right"
+	<img align="center"
 		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
 		alt="LinkedIn" />
 </a>
