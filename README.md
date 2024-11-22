@@ -1,6 +1,13 @@
 <!-- Username = RomulusMirauta -->
 
 
+<a href="https://www.linkedin.com/in/romulus-mirauta/">
+	<img align="left"
+		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+		alt="LinkedIn" />
+</a>
+
+
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
 	<img align="left"
 		src="https://user-badge.committers.top/romania/RomulusMirauta.svg" 
