@@ -8,7 +8,7 @@
 </a>
 
 
-<a href="discord">
+<a href="discord:@echo off">
 	<img align="left"
 		src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" 
 		alt="Discord" />
