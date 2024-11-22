@@ -15,13 +15,6 @@
 </a>
 
 
-<a href="https://user-badge.committers.top/romania/RomulusMirauta">
-	<img align="center"
-		src="https://user-badge.committers.top/romania/RomulusMirauta.svg" 
-		alt="RANK - Most active GitHub users in Romania" />
-</a>
-
-
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
 	<img align="left"
 		src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
@@ -30,9 +23,19 @@
 
 
 <a href="discord:@echo off">
-	<img align="center"
+	<img align="left"
 		src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" 
 		alt="Discord" />
+</a>
+
+
+<br><br>
+
+
+<a href="https://user-badge.committers.top/romania/RomulusMirauta">
+	<img align="center"
+		src="https://user-badge.committers.top/romania/RomulusMirauta.svg" 
+		alt="RANK - Most active GitHub users in Romania" />
 </a>
 
 
