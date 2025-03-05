@@ -126,6 +126,6 @@
 
 <a href="https://www.linkedin.com/in/romulus-mirauta/">
 	<img align="right"
-		src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+		src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logoColor=white" 
 		alt="LinkedIn" />
 </a>
