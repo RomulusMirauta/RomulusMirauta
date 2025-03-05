@@ -103,36 +103,3 @@
 		src="https://img.shields.io/badge/Resume-CV1?style=for-the-badge&color=silver"
 		alt="CV" />
 </a>
-
-
-
-
-
-<a href="https://www.linkedin.com/in/romulus-mirauta/">
-	<img align="right"
-		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-		alt="LinkedIn" />
-</a>
-
-
-
-
-
-<a href="https://www.linkedin.com/in/romulus-mirauta/">
-	<img align="right"
-		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5" 
-		alt="LinkedIn" />
-</a>
-
-<a href="https://www.linkedin.com/in/romulus-mirauta/">
-	<img align="right"
-		src="https://img.shields.io/badge/LinkedIn-LN1?style=for-the-badge&color=0077B5"
-		alt="LinkedIn" />
-</a>
-
-
-<a href="https://www.linkedin.com/in/romulus-mirauta/">
-	<img align="right"
-		src="https://img.shields.io/badge/LinkedIn-LN1?style=for-the-badge&color=0A68C6"
-		alt="LinkedIn" />
-</a>
