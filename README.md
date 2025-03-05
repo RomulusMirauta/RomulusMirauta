@@ -1,5 +1,7 @@
 <!-- Username = RomulusMirauta -->
 
+<!-- https://shields.io/badges -->
+
 
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
 	<img align="left"
@@ -77,3 +79,20 @@
 	<i>Visitor count</i><br>
 	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
 </p>
+
+
+<br>
+
+
+<a href="https://www.hackerrank.com/profile/RomulusMirauta">
+	<img align="left"
+		src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
+		alt="HackerRank" />
+</a>
+
+
+<a href="https://calendly.com/romulus-mirauta/1-hour-meeting">
+	<img align="left"
+		src="https://img.shields.io/badge/Calendly-RomulusMirauta1?style=for-the-badge&color=blue" 
+		alt="Calendly" />
+</a>
