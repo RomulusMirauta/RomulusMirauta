@@ -12,7 +12,7 @@
 
 <a href="https://calendly.com/romulus-mirauta/1-hour-meeting">
 	<img align="left"
-		src="https://img.shields.io/badge/Calendly-Calendly?style=for-the-badge&color=blue" 
+		src="https://img.shields.io/badge/Calendly-Calendly?style=for-the-badge&color=006BFF"
 		alt="Calendly" />
 </a>
 
@@ -25,9 +25,16 @@
 
 
 <a href="https://hsreplay.net/collection/2/54480468/">
-	<img align="center"
+	<img align="left"
 		src="https://img.shields.io/badge/Hearthstone%20Collection-HSC?style=for-the-badge&color=FA830D" 
 		alt="Hearthstone Collection" />
+</a>
+
+
+<a href="">
+	<img align="left"
+		src="https://img.shields.io/badge/Resume-CV1?style=for-the-badge&color=silver"
+		alt="CV" />
 </a>
 
 
@@ -96,20 +103,6 @@
 
 
 <br><br>
-
-
-<a href="https://hsreplay.net/collection/2/54480468/">
-	<img align="left"
-		src="https://img.shields.io/badge/Hearthstone%20Collection-HSC?style=for-the-badge&color=FA830D" 
-		alt="Hearthstone Collection" />
-</a>
-
-
-<a href="https://calendly.com/romulus-mirauta/1-hour-meeting">
-	<img align="left"
-		src="https://img.shields.io/badge/Calendly-Calendly?style=for-the-badge&color=blue" 
-		alt="Calendly" />
-</a>
 
 
 <a href="">
