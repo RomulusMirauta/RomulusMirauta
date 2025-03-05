@@ -31,17 +31,10 @@
 </a>
 
 
-<a href="">
+<a href="https://docs.google.com/document/d/1b2vt_GqHarnpi5ee7XQQPeUnvB5h7ksj43ciZZqfpwE/">
 	<img align="left"
 		src="https://img.shields.io/badge/CV-CV1?style=for-the-badge&color=silver"
 		alt="CV" />
-</a>
-
-
-<a href="mailto:romulus.mirauta1@gmail.com">
-	<img align="left"
-		src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-		alt="Gmail" />
 </a>
 
 
@@ -49,6 +42,13 @@
 	<img align="left"
 		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
 		alt="LinkedIn" />
+</a>
+
+
+<a href="mailto:romulus.mirauta1@gmail.com">
+	<img align="left"
+		src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+		alt="Gmail" />
 </a>
 
 
