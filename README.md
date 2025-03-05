@@ -33,7 +33,7 @@
 
 <a href="">
 	<img align="left"
-		src="https://img.shields.io/badge/Resume-CV1?style=for-the-badge&color=silver"
+		src="https://img.shields.io/badge/CV-CV1?style=for-the-badge&color=silver"
 		alt="CV" />
 </a>
 
