@@ -39,14 +39,14 @@
 
 
 <a href="mailto:romulus.mirauta1@gmail.com">
-	<img align="right"
+	<img align="left"
 		src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
 		alt="Gmail" />
 </a>
 
 
 <a href="https://www.linkedin.com/in/romulus-mirauta/">
-	<img align="right"
+	<img align="left"
 		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
 		alt="LinkedIn" />
 </a>
