@@ -86,7 +86,7 @@
 
 <a href="https://hsreplay.net/collection/2/54480468/">
 	<img align="left"
-		src="https://img.shields.io/badge/Hearthstone%20Collection-HSC?style=for-the-badge&color=FFFE3D" 
+		src="https://img.shields.io/badge/Hearthstone%20Collection-HSC?style=for-the-badge&color=FA830D" 
 		alt="Hearthstone Collection" />
 </a>
 
