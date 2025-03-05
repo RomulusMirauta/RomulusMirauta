@@ -84,10 +84,10 @@
 <br>
 
 
-<a href="https://www.hackerrank.com/profile/RomulusMirauta">
+<a href="https://hsreplay.net/collection/2/54480468/">
 	<img align="left"
-		src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
-		alt="HackerRank" />
+		src="https://img.shields.io/badge/Hearthstone%20Collection-HSC?style=for-the-badge&color=yellow" 
+		alt="Hearthstone Collection" />
 </a>
 
 
