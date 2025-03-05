@@ -123,3 +123,9 @@
 		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5" 
 		alt="LinkedIn" />
 </a>
+
+<a href="https://www.linkedin.com/in/romulus-mirauta/">
+	<img align="right"
+		src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5" 
+		alt="LinkedIn" />
+</a>
