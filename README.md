@@ -33,7 +33,7 @@
 
 <a href="">
 	<img align="left"
-		src="https://img.shields.io/badge/Resume-CV1?style=for-the-badge&color=silver"
+		src="https://img.shields.io/badge/CV-CV1?style=for-the-badge&color=silver"
 		alt="CV" />
 </a>
 
@@ -109,4 +109,24 @@
 	<img align="left"
 		src="https://img.shields.io/badge/Resume-CV1?style=for-the-badge&color=silver"
 		alt="CV" />
+</a>
+
+
+
+
+
+<a href="https://www.linkedin.com/in/romulus-mirauta/">
+	<img align="right"
+		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+		alt="LinkedIn" />
+</a>
+
+
+
+
+
+<a href="https://www.linkedin.com/in/romulus-mirauta/">
+	<img align="right"
+		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5" 
+		alt="LinkedIn" />
 </a>
