@@ -100,13 +100,3 @@
 	<i>Visitor count</i><br>
 	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
 </p>
-
-
-<br><br>
-
-
-<a href="">
-	<img align="right"
-		src="https://img.shields.io/badge/Resume-CV1?style=for-the-badge&color=silver"
-		alt="CV" />
-</a>
