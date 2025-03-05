@@ -93,6 +93,13 @@
 
 <a href="https://calendly.com/romulus-mirauta/1-hour-meeting">
 	<img align="left"
-		src="https://img.shields.io/badge/Calendly-RomulusMirauta1?style=for-the-badge&color=blue" 
+		src="https://img.shields.io/badge/Calendly-Calendly?style=for-the-badge&color=blue" 
 		alt="Calendly" />
+</a>
+
+
+<a href="">
+	<img align="left"
+		src="https://img.shields.io/badge/CV-CV1?style=for-the-badge&color=silver"
+		alt="CV" />
 </a>
