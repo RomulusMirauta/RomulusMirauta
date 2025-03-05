@@ -26,8 +26,15 @@
 
 <a href="https://hsreplay.net/collection/2/54480468/">
 	<img align="left"
-		src="https://img.shields.io/badge/Hearthstone%20Collection-HSC?style=for-the-badge&color=FA830D" 
+		src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
 		alt="Hearthstone Collection" />
+</a>
+
+
+<a href="">
+	<img align="right"
+		src="https://img.shields.io/badge/Resume-CV1?style=for-the-badge&color=silver"
+		alt="CV" />
 </a>
 
 
