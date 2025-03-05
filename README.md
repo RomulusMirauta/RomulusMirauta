@@ -100,3 +100,12 @@
 	<i>Visitor count</i><br>
 	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
 </p>
+
+
+
+
+<a href="https://hsreplay.net/collection/2/54480468/">
+	<img align="center"
+		src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
+		alt="Hearthstone Collection" />
+</a>
