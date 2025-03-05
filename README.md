@@ -24,6 +24,13 @@
 </a>
 
 
+<a href="https://hsreplay.net/collection/2/54480468/">
+	<img align="left"
+		src="https://img.shields.io/badge/Hearthstone%20Collection-HSC?style=for-the-badge&color=FA830D" 
+		alt="Hearthstone Collection" />
+</a>
+
+
 <a href="mailto:romulus.mirauta1@gmail.com">
 	<img align="right"
 		src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
