@@ -103,9 +103,48 @@
 
 
 
+<!-- TRIES -->
+
+
+
+<br><br>
+
+<a href="https://hsreplay.net/collection/2/54480468/">
+	<img align="left"
+		src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
+		alt="Hearthstone Collection" />
+</a>
+
 
 <a href="https://hsreplay.net/collection/2/54480468/">
 	<img align="middle"
 		src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
 		alt="Hearthstone Collection" />
 </a>
+
+<a href="https://hsreplay.net/collection/2/54480468/">
+	<img align="right"
+		src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
+		alt="Hearthstone Collection" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- TRIES -->
