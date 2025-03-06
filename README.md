@@ -54,6 +54,7 @@
 
 <br><br>
 
+<hr>
 
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
 	<img align="center"
@@ -105,7 +106,7 @@
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 
-<hr>
+
 
 
 <!-- LEARNING -->
