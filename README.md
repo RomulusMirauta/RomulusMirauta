@@ -52,7 +52,7 @@
 </a>
 
 
-<br><hr>
+<br><br>
 
 
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
@@ -100,6 +100,9 @@
 	<i>Visitor count</i><br>
 	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
 </p>
+
+
+<hr>
 
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
