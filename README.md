@@ -26,7 +26,7 @@
 
 <a href="https://hsreplay.net/collection/2/54480468/">
 	<img align="left"
-		src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
+		src="https://img.shields.io/badge/Hearthstone-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white" 
 		alt="Hearthstone Collection" />
 </a>
 
