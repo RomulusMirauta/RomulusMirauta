@@ -12,7 +12,7 @@
 
 <a href="https://calendly.com/romulus-mirauta/1-hour-meeting">
 	<img align="left"
-		src="https://img.shields.io/badge/Calendly-Calendly?style=for-the-badge&color=006BFF"
+		src="https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white"
 		alt="Calendly" />
 </a>
 
