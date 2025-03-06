@@ -52,7 +52,8 @@
 </a>
 
 
-<hr>
+<br><hr>
+
 
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
 	<img align="center"
