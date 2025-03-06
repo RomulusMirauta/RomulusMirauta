@@ -159,6 +159,19 @@
 
 
 
+<h2  align="center">
+<a href="https://hsreplay.net/collection/2/54480468/">
+	<img src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
+		alt="Hearthstone Collection" />
+</a> 
+</h2>
+
+
+
+
+
+
+
 
 
 <!-- LEARNING -->
