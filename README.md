@@ -105,7 +105,7 @@
 <hr>
 
 
-<h6  align="center">💻 Check Out My Repos ⬇️ </h6>
+<h1  align="center">💻 Check Out My Repos ⬇️ </h1>
 
 
 
