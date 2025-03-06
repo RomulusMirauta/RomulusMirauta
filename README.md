@@ -149,7 +149,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" alt="Example Image" style="float: right;">
+<img src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" alt="Example Image" style="float: right">
 
 
 
