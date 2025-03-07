@@ -169,7 +169,7 @@
 
 
 
-| SETUP | WORK | GAMING |
+| | WORK SETUP | GAMING SETUP |
 | ----- | --- | --- |
 | Keyboard | Logitech MX Keys S | SteelSeries Apex 5 *(key switches: SteelSeries Hybrid Blue)* |
 | Mouse | Logitech MX Master 3S | Logitech G502 LightSpeed *(optical sensor: HERO 25K)* |
