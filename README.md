@@ -156,7 +156,7 @@
 
 | WORK SETUP | GAMING SETUP |
 | ----- | --- |
-| • **Keyboard:** Logitech MX Keys S <br> • **Mouse:** Logitech MX Master 3S <br> **Headphones:** Logitech Zone Vibe 125 <br> • **Webcam:** Logitech HD Pro C920 <br> • **Docking Station:** Dell WD19S 180W | • **Keyboard:** SteelSeries Apex 5 *(key switches: SteelSeries Hybrid Blue)* <br> • **Mouse:** Logitech G502 LightSpeed *(optical sensor: HERO 25K)* <br> • **Headphones:** Thermaltake Cronos AD |
+| • **Keyboard:** Logitech MX Keys S <br> • **Mouse:** Logitech MX Master 3S <br> • **Headphones:** Logitech Zone Vibe 125 <br> • **Webcam:** Logitech HD Pro C920 <br> • **Docking Station:** Dell WD19S 180W | • **Keyboard:** SteelSeries Apex 5 *(key switches: SteelSeries Hybrid Blue)* <br> • **Mouse:** Logitech G502 LightSpeed *(optical sensor: HERO 25K)* <br> • **Headphones:** Thermaltake Cronos AD |
 
 
 | *- COMMON SETUP -* |
