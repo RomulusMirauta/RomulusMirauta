@@ -206,7 +206,7 @@
 -->
 
 
-| *- COMMON SETUP -* |
+| | *- COMMON SETUP -* |
 | ----- | --- |
 | **UPS** ***(Uninterruptible Power Supply)*** | Well Stark line-interactive 2000 VA / 1200 W |
 | **Monitors** | *2x* Benq EX2510S MOBIUZ, 24.5" *(both connected via DP cables => NVIDIA G-SYNC Compatible)* |
