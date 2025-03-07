@@ -138,8 +138,7 @@ Case: Corsair iCUE 4000X RGB Tempered Glass Black |
 
 | | FULL PC SPECS |
 | ----- | --- |
-| ![Hearthstone Collection](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png) | GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB
-CPU: Intel Core i9 12900K
+| ![Hearthstone Collection](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png) | GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB CPU: Intel Core i9 12900K
 CPU Cooler: Corsair H150i RGB ELITE
 RAM: Kingston FURY Renegade RGB 32GB DDR5 
 6000MHz CL32 Dual Channel Kit
