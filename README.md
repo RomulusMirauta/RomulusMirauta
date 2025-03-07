@@ -123,41 +123,15 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&th
 
 | Image                           | Text                           |
 |---------------------------------|--------------------------------|
-| ![Placeholder Image](https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290) | This text is aligned next to the image in a table layout. |
-
-
-
-
-
-
-
-<div style="display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290" alt="Placeholder Image">
-  <p>This text is aligned next to the image using CSS Grid. Add more text here to see the alignment effect. Markdown syntax is supported within the HTML tags.</p>
-</div>
-
-
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290" alt="Placeholder Image" style="margin-right: 10px;">
-  <p>This text is aligned next to the image using Flexbox. Add more text here to see the alignment effect. Markdown syntax is supported within the HTML tags.</p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290" alt="Placeholder Image" style="float: left; margin-right: 5px;">
-  This text will wrap around the image aligned to the left. Add more text here to see the wrapping effect. Markdown syntax is supported within the HTML tags.
-</p>
-
+| ![Placeholder Image](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png) | GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB
+CPU: Intel Core i9 12900K
+CPU Cooler: Corsair H150i RGB ELITE
+RAM: Kingston FURY Renegade RGB 32GB DDR5 
+6000MHz CL32 Dual Channel Kit
+Motherboard: GIGABYTE Z690 AORUS ELITE AX
+Storage: SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280
+Power Supply: Thermaltake Toughpower GF, 80+ Gold, 850W
+Case: Corsair iCUE 4000X RGB Tempered Glass Black |
 
 
 
@@ -190,7 +164,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&th
 </p>
 
 
-
+<!--
 
 <a href="https://gh-stats-gen.vercel.app/">
 	<img align="right" height=250
@@ -200,9 +174,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&th
 
 
 
+-->
 
 
-<!--
 
 <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
 
@@ -210,7 +184,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&th
 	src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png">
 </a>
 
--->
+
 
 </h4>
 
