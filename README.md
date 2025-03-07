@@ -136,13 +136,17 @@ Case: Corsair iCUE 4000X RGB Tempered Glass Black |
 
 
 
-
-## Preview
-| Badge | url |
+| | FULL PC SPECS |
 | ----- | --- |
-| ![Hearthstone Collection](https://img.shields.io/badge/Hearthstone-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white) | `![Hearthstone Collection](https://img.shields.io/badge/Hearthstone-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white)` |
-| ![Calendly](https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white) | `![Calendly](https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white)` |
-
+| ![Hearthstone Collection](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png) | GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB
+CPU: Intel Core i9 12900K
+CPU Cooler: Corsair H150i RGB ELITE
+RAM: Kingston FURY Renegade RGB 32GB DDR5 
+6000MHz CL32 Dual Channel Kit
+Motherboard: GIGABYTE Z690 AORUS ELITE AX
+Storage: SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280
+Power Supply: Thermaltake Toughpower GF, 80+ Gold, 850W
+Case: Corsair iCUE 4000X RGB Tempered Glass Black |
 
 
 
