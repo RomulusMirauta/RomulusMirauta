@@ -117,7 +117,7 @@
 
 
 
-| WORK | * - COMMON - * | GAMING |
+| WORK | *- COMMON -* | GAMING |
 | ----- | ---- | ---- |
 |  
 |  
