@@ -113,10 +113,21 @@
 # My Setup
 
 
+<!--
+| PCGameBenchmark | FULL PC SPECS |
+| ----- | --- |
+| [![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows) | • **CPU:** Intel Core i9 12900K <br> • **GPU:** MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB <br> • **CPU Cooler:** Corsair H150i RGB ELITE <br> • **RAM:** Kingston FURY Renegade RGB 32GB DDR5 6000MHz CL32 D-C Kit <br> • **Motherboard:** GIGABYTE Z690 AORUS ELITE AX <br> • **Storage:** SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280 <br> • **Power Supply:** Thermaltake Toughpower GF, 80+ Gold, 850W <br> • **Case:** Corsair iCUE 4000X RGB Tempered Glass Black |
+-->
+
+
+
 
 | PCGameBenchmark | FULL PC SPECS |
 | ----- | --- |
 | [![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows) | • **CPU:** Intel Core i9 12900K <br> • **GPU:** MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB <br> • **CPU Cooler:** Corsair H150i RGB ELITE <br> • **RAM:** Kingston FURY Renegade RGB 32GB DDR5 6000MHz CL32 D-C Kit <br> • **Motherboard:** GIGABYTE Z690 AORUS ELITE AX <br> • **Storage:** SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280 <br> • **Power Supply:** Thermaltake Toughpower GF, 80+ Gold, 850W <br> • **Case:** Corsair iCUE 4000X RGB Tempered Glass Black |
+
+
+
 
 
 
@@ -206,7 +217,7 @@
 -->
 
 
-| | *- COMMON SETUP -* |
+| | ***- COMMON SETUP -*** |
 | ----- | --- |
 | **UPS** | *(Uninterruptible Power Supply)* Well Stark line-interactive 2000 VA / 1200 W |
 | **Monitors** | **2x** Benq EX2510S MOBIUZ, 24.5" *(both connected via DP cables => NVIDIA G-SYNC Compatible)* |
@@ -226,7 +237,7 @@
 
 
 
-| OTHERS |
+| **OTHERS** |
 | ----- |
 | • JBL Endurance SPRINT, Black-Lime <br> • Samsung Galaxy S23+ <br> • Samsung Galaxy Watch6, 44mm, LTE, Graphite |  
 
