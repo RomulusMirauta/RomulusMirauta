@@ -120,9 +120,7 @@
 
 | WORK | *- COMMON -* | GAMING |
 | ----- | --- | --- |
-| **Keyboard:** Logitech MX Keys S <br> **Mouse:** Logitech MX Master 3S <br> **Headphones:** Logitech Zone Vibe 125 <br> **Webcam:** Logitech HD Pro C920 <br> **Docking Station:** Dell WD19S 180W |
-| **UPS** ***(Uninterruptible Power Supply):*** Well Stark line-interactive 2000 VA / 1200 W <br> **Monitors:** 2x Benq EX2510S MOBIUZ, 24.5" *(both connected via DP cables => NVIDIA G-SYNC Compatible)* <br> **Audio Output:** JBL Charge 4 *(connected via audio cable, 3.5 mm jack => removes audio delays)* <br> **Gaming Chair:** Corsair T3 Rush Charcoal <br> **Ethernet Cables:** 2x NUODWELL CAT6, flat |
-| **Keyboard:** SteelSeries Apex 5 *(key switches: SteelSeries Hybrid Blue)* <br> **Mouse:** Logitech G502 LightSpeed *(optical sensor: HERO 25K)* <br> **Headphones:** Thermaltake Cronos AD |
+| **Keyboard:** Logitech MX Keys S <br> **Mouse:** Logitech MX Master 3S <br> **Headphones:** Logitech Zone Vibe 125 <br> **Webcam:** Logitech HD Pro C920 <br> **Docking Station:** Dell WD19S 180W | **UPS** ***(Uninterruptible Power Supply):*** Well Stark line-interactive 2000 VA / 1200 W <br> **Monitors:** 2x Benq EX2510S MOBIUZ, 24.5" *(both connected via DP cables => NVIDIA G-SYNC Compatible)* <br> **Audio Output:** JBL Charge 4 *(connected via audio cable, 3.5 mm jack => removes audio delays)* <br> **Gaming Chair:** Corsair T3 Rush Charcoal <br> **Ethernet Cables:** 2x NUODWELL CAT6, flat | **Keyboard:** SteelSeries Apex 5 *(key switches: SteelSeries Hybrid Blue)* <br> **Mouse:** Logitech G502 LightSpeed *(optical sensor: HERO 25K)* <br> **Headphones:** Thermaltake Cronos AD |
 
 
 <hr>
