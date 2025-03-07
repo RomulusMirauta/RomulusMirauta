@@ -113,11 +113,10 @@
 
 
 
-<div style="display: flex; align-items: center;">
-  <img src="https://via.placeholder.com/150" alt="Placeholder Image" style="margin-right: 10px;">
-  <p>This text is aligned next to the image using Flexbox. Add more text here to see the alignment effect. Markdown syntax is supported within the HTML tags.</p>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290" alt="Placeholder Image" style="float: left; margin-right: 10px;">
+  This text will wrap around the image aligned to the left. Add more text here to see the wrapping effect. Markdown syntax is supported within the HTML tags.
+</p>
 
 
 
