@@ -5,49 +5,49 @@
 
 
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
-	<img align="center"
+	<img align="left"
 		src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
 		alt="HackerRank" />
 </a>
 
 
 <a href="https://calendly.com/romulus-mirauta/1-hour-meeting">
-	<img align="center"
+	<img align="left"
 		src="https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white"
 		alt="Calendly" />
 </a>
 
 
 <a href="https://discord.com/users/171948220111388672">
-	<img align="center"
+	<img align="left"
 		src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" 
 		alt="Discord" />
 </a>
 
 
 <a href="https://hsreplay.net/collection/2/54480468/">
-	<img align="center"
+	<img align="left"
 		src="https://img.shields.io/badge/Hearthstone-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white" 
 		alt="Hearthstone Collection" />
 </a>
 
 
 <a href="https://docs.google.com/document/d/1b2vt_GqHarnpi5ee7XQQPeUnvB5h7ksj43ciZZqfpwE/">
-	<img align="center"
+	<img align="left"
 		src="https://img.shields.io/badge/CV-CV1?style=for-the-badge&color=silver"
 		alt="RESUME" />
 </a>
 
 
 <a href="https://www.linkedin.com/in/romulus-mirauta/">
-	<img align="center"
+	<img align="left"
 		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
 		alt="LinkedIn" />
 </a>
 
 
 <a href="mailto:romulus.mirauta1@gmail.com">
-	<img align="center"
+	<img align="left"
 		src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
 		alt="Gmail" />
 </a>
