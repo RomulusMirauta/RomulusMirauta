@@ -121,9 +121,10 @@
 <h3  align="right">
 
 <p>**FULL PC SPECS:**</p>
-GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB<br>
-CPU: Intel Core i9 12900K<br>
-CPU Cooler: Corsair H150i RGB ELITE<br>
+
+<br>GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB
+<br>CPU: Intel Core i9 12900K
+<br>CPU Cooler: Corsair H150i RGB ELITE
 RAM: Kingston FURY Renegade RGB 32GB DDR5 6000MHz CL32 Dual Channel Kit<br>
 Motherboard: GIGABYTE Z690 AORUS ELITE AX<br>
 Storage: SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280<br>
