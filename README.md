@@ -114,7 +114,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290" alt="Placeholder Image" style="float: left; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290" alt="Placeholder Image" style="float: left; margin-right: 5px;">
   This text will wrap around the image aligned to the left. Add more text here to see the wrapping effect. Markdown syntax is supported within the HTML tags.
 </p>
 
