@@ -121,7 +121,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&th
 
 
 
-| Image                           | Text                           |
+|                            | FULL PC SPECS                           |
 |---------------------------------|--------------------------------|
 | ![Placeholder Image](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png) | GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB
 CPU: Intel Core i9 12900K
@@ -137,7 +137,11 @@ Case: Corsair iCUE 4000X RGB Tempered Glass Black |
 
 
 
-
+## Preview
+| Badge | url |
+| ----- | --- |
+| ![Hearthstone Collection](https://img.shields.io/badge/Hearthstone-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white) | `![Hearthstone Collection](https://img.shields.io/badge/Hearthstone-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white)` |
+| ![Calendly](https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white) | `![Calendly](https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white)` |
 
 
 
