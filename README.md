@@ -120,7 +120,7 @@
 
 <h3  align="right">
 
-<p>**FULL PC SPECS:**</p>
+<br>**FULL PC SPECS:**
 
 <br>GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB
 <br>CPU: Intel Core i9 12900K
