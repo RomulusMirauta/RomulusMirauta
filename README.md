@@ -174,7 +174,7 @@
 | K**eyboard** | Logitech MX Keys S | SteelSeries Apex 5 *(key switches: SteelSeries Hybrid Blue)* |
 | **Mouse** | Logitech MX Master 3S | Logitech G502 LightSpeed *(optical sensor: HERO 25K)* |
 | **Headphones** | Logitech Zone Vibe 125 | Thermaltake Cronos AD |
-| **Others** | **Webcam:** Logitech HD Pro C920 <br> **Docking Station:** Dell WD19S 180W | - |
+| **Others** | **Webcam:** Logitech HD Pro C920 <br> **Docking Station:** Dell WD19S 180W | |
 
 
 
