@@ -3,8 +3,6 @@
 <!-- https://shields.io/badges -->
 
 
-<h1  align="center">
-
 
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
 	<img align="left"
@@ -55,10 +53,9 @@
 </a>
 
 
-</h1>
-
 
 <br><br>
+
 
 
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
