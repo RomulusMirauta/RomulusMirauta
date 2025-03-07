@@ -115,27 +115,23 @@
 | [![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows) | **CPU:** Intel Core i9 12900K <br> **GPU:** MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB <br> **CPU Cooler:** Corsair H150i RGB ELITE <br> **RAM:** Kingston FURY Renegade RGB 32GB DDR5 6000MHz CL32 DC Kit <br> **Motherboard:** GIGABYTE Z690 AORUS ELITE AX <br> **Storage:** SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280 <br> **Power Supply:** Thermaltake Toughpower GF, 80+ Gold, 850W <br> **Case:** Corsair iCUE 4000X RGB Tempered Glass Black |
 
 
+<hr>
 
 
 | WORK | *- COMMON -* | GAMING |
 | ----- | ---- | ---- |
-|  
-|  
-|  
-|
+| **Keyboard:** Logitech MX Keys S <br> **Mouse:** Logitech MX Master 3S <br> **Headphones:** Logitech Zone Vibe 125 <br> **Webcam:** Logitech HD Pro C920 <br> **Docking Station:** Dell WD19S 180W |
+| **UPS** ***(Uninterruptible Power Supply):*** Well Stark line-interactive 2000 VA / 1200 W <br> **Monitors:** 2x Benq EX2510S MOBIUZ, 24.5" *(both connected via DP cables => NVIDIA G-SYNC Compatible)* <br> **Audio Output:** JBL Charge 4 *(connected via audio cable, 3.5 mm jack => removes audio delays)* <br> **Gaming Chair:** Corsair T3 Rush Charcoal <br> **Ethernet Cables:** 2x NUODWELL CAT6, flat |
+
+| **Keyboard:** SteelSeries Apex 5 *(key switches: SteelSeries Hybrid Blue)* <br> **Mouse:** Logitech G502 LightSpeed *(optical sensor: HERO 25K)* <br> **Headphones:** Thermaltake Cronos AD |
 
 
-
+<hr>
 
 
 | OTHERS |
 | ----- |
 |  JBL Endurance SPRINT, Black-Lime <br> Samsung Galaxy S23+ <br> Samsung Galaxy Watch6, 44mm, LTE, Graphite |  
-
-
-
-
-
 
 
 
@@ -149,70 +145,8 @@
 
 
 
-<!-- LEARNING -->
+<!-- LEARNING
 
-
-
-<!--
-
-
-
-<br><br>
-
-<a href="https://hsreplay.net/collection/2/54480468/">
-	<img align="left"
-		src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
-		alt="Hearthstone Collection" />
-</a>
-
-
-<a href="https://hsreplay.net/collection/2/54480468/">
-	<img align="center"
-		src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
-		alt="Hearthstone Collection" />
-</a>
-
-
-<a href="https://hsreplay.net/collection/2/54480468/">
-	<img align="right"
-		src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
-		alt="Hearthstone Collection" />
-</a>
-
-
-
-<br><br>
-
-
-
-<div style="text-align: center;">
-  <img src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" alt="Example Image">
-</div>
-
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" alt="Example Image" style="float: right">
-
-
-
-
-
-
-
-<h2  align="center">
-<a href="https://hsreplay.net/collection/2/54480468/">
-	<img src="https://img.shields.io/badge/Hearthstone-HearthstoneCollection1?style=for-the-badge&color=FA830D" 
-		alt="Hearthstone Collection" />
-</a> 
-</h2>
 
 
 -->
-
-
-
-
-
-
-<!-- LEARNING -->
