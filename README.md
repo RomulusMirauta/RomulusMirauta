@@ -111,14 +111,6 @@
 
 
 <h3  align="left">
-<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
-
-<img src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png">
-</a>
-
-
-
-
 
 <br>FULL PC SPECS:
 
@@ -131,6 +123,16 @@
 <br>Storage: SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280
 <br>Power Supply: Thermaltake Toughpower GF, 80+ Gold, 850W
 <br>Case: Corsair iCUE 4000X RGB Tempered Glass Black
+
+
+
+<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
+
+<img align="left"
+	src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png">
+</a>
+
+
 
 </h3>
 
