@@ -130,13 +130,26 @@
 
 
 
+
+<a href="https://gh-stats-gen.vercel.app/">
+	<img align="right" height=513
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290"
+		alt="GitHub Top Languages" />
+</a>
+
+
+
+
+
+<!--
+
 <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
 
 <img align="right"
 	src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png">
 </a>
 
-
+-->
 
 </h4>
 
