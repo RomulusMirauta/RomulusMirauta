@@ -110,71 +110,18 @@
 
 
 
-
-
-<!--
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290
-
--->
-
-
-
-
-|                            | FULL PC SPECS                           |
-|---------------------------------|--------------------------------|
-| ![Placeholder Image](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png) | GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB
-CPU: Intel Core i9 12900K
-CPU Cooler: Corsair H150i RGB ELITE
-RAM: Kingston FURY Renegade RGB 32GB DDR5 
-6000MHz CL32 Dual Channel Kit
-Motherboard: GIGABYTE Z690 AORUS ELITE AX
-Storage: SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280
-Power Supply: Thermaltake Toughpower GF, 80+ Gold, 850W
-Case: Corsair iCUE 4000X RGB Tempered Glass Black |
-
-
-
-
 | | FULL PC SPECS |
 | ----- | --- |
-| ![Hearthstone Collection](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png) | GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB <br> CPU: Intel Core i9 12900K <br> CPU Cooler: Corsair H150i RGB ELITE <br> RAM: Kingston FURY Renegade RGB 32GB DDR5 <br> 6000MHz CL32 Dual Channel Kit <br> Motherboard: GIGABYTE Z690 AORUS ELITE AX <br> Storage: SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280 <br> Power Supply: Thermaltake Toughpower GF, 80+ Gold, 850W <br> Case: Corsair iCUE 4000X RGB Tempered Glass Black |
+| ![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png) | GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB <br> CPU: Intel Core i9 12900K <br> CPU Cooler: Corsair H150i RGB ELITE <br> RAM: Kingston FURY Renegade RGB 32GB DDR5 <br> 6000MHz CL32 Dual Channel Kit <br> Motherboard: GIGABYTE Z690 AORUS ELITE AX <br> Storage: SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280 <br> Power Supply: Thermaltake Toughpower GF, 80+ Gold, 850W <br> Case: Corsair iCUE 4000X RGB Tempered Glass Black |
 
 
 
 
 
 
-<h4 align="left">
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-
-<p>FULL PC SPECS:
-
-<p>GPU: MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB
-<p>CPU: Intel Core i9 12900K
-<p>CPU Cooler: Corsair H150i RGB ELITE
-<p>RAM: Kingston FURY Renegade RGB 32GB DDR5 
-<p>6000MHz CL32 Dual Channel Kit
-<p>Motherboard: GIGABYTE Z690 AORUS ELITE AX
-<p>Storage: SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280
-<p>Power Supply: Thermaltake Toughpower GF, 80+ Gold, 850W
-<p>Case: Corsair iCUE 4000X RGB Tempered Glass Black
-
-</p>
-
-
-<!--
-
-<a href="https://gh-stats-gen.vercel.app/">
-	<img align="right" height=250
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290"
-		alt="GitHub Top Languages" />
-</a>
-
-
-
--->
 
 
 
@@ -186,7 +133,7 @@ Case: Corsair iCUE 4000X RGB Tempered Glass Black |
 
 
 
-</h4>
+
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
