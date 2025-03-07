@@ -119,6 +119,18 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&th
 -->
 
 
+
+
+| Image                           | Text                           |
+|---------------------------------|--------------------------------|
+| ![Placeholder Image](https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290) | This text is aligned next to the image in a table layout. |
+
+
+
+
+
+
+
 <div style="display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290" alt="Placeholder Image">
   <p>This text is aligned next to the image using CSS Grid. Add more text here to see the alignment effect. Markdown syntax is supported within the HTML tags.</p>
