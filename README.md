@@ -116,6 +116,29 @@
 
 
 
+
+| WORK | *COMMON* | GAMING |
+| ----- | ---- | ---- |
+|  
+|  
+|  
+|
+
+
+
+
+
+| OTHERS |
+| ----- |
+|  JBL Endurance SPRINT, Black-Lime <br> Samsung Galaxy S23+ <br> Samsung Galaxy Watch6, 44mm, LTE, Graphite |  
+
+
+
+
+
+
+
+
 <hr>
 
 
