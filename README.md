@@ -144,6 +144,28 @@
 
 
 
+# Example Tables
+
+<table>
+  <tr>
+    <td>
+
+| Column 1 | Column 2 |
+|----------|----------|
+| Row 1    | Data 1   |
+| Row 2    | Data 2   |
+
+    </td>
+    <td>
+
+| Column A | Column B |
+|----------|----------|
+| Row A1   | Data A1  |
+| Row A2   | Data A2  |
+
+    </td>
+  </tr>
+</table>
 
 
 
