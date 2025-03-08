@@ -127,6 +127,12 @@
 | [![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows) | 
 
 
+
+
+[![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows)
+
+
+
 | **Component** | **Specs** |
 | ----- | --- |
 | **CPU** | Intel Core i9 12900K |
