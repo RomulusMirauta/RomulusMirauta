@@ -140,7 +140,7 @@
 
 
 
-
+<p align="left">
 
 | **PCGameBenchmark** |
 | ----- |
@@ -161,7 +161,7 @@
 | **Case** | Corsair iCUE 4000X RGB Tempered Glass Black |
 
 
-
+</p>
 
 
 
