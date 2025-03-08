@@ -169,12 +169,15 @@
 
 
 <table>
+<tr>
+<td>
 
 | **PCGameBenchmark** |
 | ----- |
 | [![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows) | 
 
-
+</td>
+<td>
 
 | **COMPONENT** | **SPECS** |
 | ----- | --- |
@@ -187,6 +190,8 @@
 | **Power Supply** | Thermaltake Toughpower GF, 80+ Gold, 850W |
 | **Case** | Corsair iCUE 4000X RGB Tempered Glass Black |
 
+</td>
+</tr>
 </table>
 
 
