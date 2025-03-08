@@ -100,7 +100,7 @@
 
 
 <p align="center">
-	<i>Visitor count</i><br>
+	<i>Visitor count</i><br><br>
 	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
 </p>
 
