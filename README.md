@@ -136,6 +136,8 @@
 
 
 
+<p align="right">
+
 | **Component** | **Specs** |
 | ----- | --- |
 | **CPU** | Intel Core i9 12900K |
@@ -147,6 +149,7 @@
 | **Power Supply** | Thermaltake Toughpower GF, 80+ Gold, 850W |
 | **Case** | Corsair iCUE 4000X RGB Tempered Glass Black |
 
+</p>
 
 
 
