@@ -201,7 +201,7 @@
 | **CPU Cooler** | Corsair H150i RGB ELITE |
 | **RAM** | Kingston FURY Renegade RGB 32GB DDR5 6000MHz |
 | **Motherboard** | GIGABYTE Z690 AORUS ELITE AX |
-| **Storage** | SSD Samsung 980 PRO 1TB PCI Express 4.0 M.2 2280 |
+| **Storage** | SSD Samsung 980 PRO 1TB PCI Express 4.0 M.2 2280|
 | **Power Supply** | Thermaltake Toughpower GF, 80+ Gold, 850W |
 | **Case** | Corsair iCUE 4000X RGB Tempered Glass Black |
 
