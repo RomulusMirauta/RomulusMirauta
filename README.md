@@ -148,7 +148,7 @@
 <td>
 
 <a href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
-	<img align="left" height=400
+	<img align="left" height=300
 		src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png" 
 		alt="PCGameBenchmark" />
 </a>
