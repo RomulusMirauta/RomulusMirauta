@@ -128,7 +128,7 @@
 | **COMPONENT** | **SPECS** |
 | ----- | --- |
 | **CPU** | Intel Core i9-12900K |
-| **GPU** | MSI NVIDIA GeForce RTX 3080 GAMING Z TRIO LHR 12GB |
+| **GPU** | MSI NVIDIA GeForce RTX 3080 GAMING Z TRIO 12GB |
 | **CPU Cooler** | Corsair H150i RGB ELITE |
 | **RAM** | Kingston FURY Renegade 32GB DDR5 6000MHz |
 | **Motherboard** | GIGABYTE Z690 AORUS ELITE AX |
