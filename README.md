@@ -114,77 +114,6 @@
 
 
 
-| PCGameBenchmark | FULL PC SPECS |
-| ----- | --- |
-| [![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows) | • **CPU:** Intel Core i9 12900K <br> • **GPU:** MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB <br> • **CPU Cooler:** Corsair H150i RGB ELITE <br> • **RAM:** Kingston FURY Renegade RGB 32GB DDR5 6000MHz CL32 D-C Kit <br> • **Motherboard:** GIGABYTE Z690 AORUS ELITE AX <br> • **Storage:** SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280 <br> • **Power Supply:** Thermaltake Toughpower GF, 80+ Gold, 850W <br> • **Case:** Corsair iCUE 4000X RGB Tempered Glass Black |
-
-
-
-
-
-
-
-
-
-<!--
-<a href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
-	<img align="left"
-		src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png" 
-		alt="PCGameBenchmark" />
-</a>
-
-<p align="left">
-</p>
--->
-
-
-
-
-
-
-<!-- 1 table, 1 photo, but no quality
-
-
-<table>
-<tr>
-<td>
-
-<a href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
-	<img align="left"
-		src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png" 
-		alt="PCGameBenchmark" />
-</a>
-
-</td>
-<td>
-
-| **COMPONENT** | **SPECS** |
-| ----- | --- |
-| **CPU** | Intel Core i9 12900K |
-| **GPU** | MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB |
-| **CPU Cooler** | Corsair H150i RGB ELITE |
-| **RAM** | Kingston FURY Renegade RGB 32GB DDR5 6000MHz CL32 D-C Kit |
-| **Motherboard** | GIGABYTE Z690 AORUS ELITE AX |
-| **Storage** | SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280 |
-| **Power Supply** | Thermaltake Toughpower GF, 80+ Gold, 850W |
-| **Case** | Corsair iCUE 4000X RGB Tempered Glass Black |
-
-</td>
-</tr>
-</table>
-
--->
-
-
-
-
-
-
-
-
-<!-- 2 tables, but doesn't fit
--->
-
 <table>
 <tr>
 <td>
@@ -198,8 +127,8 @@
 
 | **COMPONENT** | **SPECS** |
 | ----- | --- |
-| **CPU** | Intel Core i9 12900K |
-| **GPU** | MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB |
+| **CPU** | Intel Core i9-12900K |
+| **GPU** | MSI NVIDIA GeForce RTX 3080 GAMING Z TRIO LHR 12GB |
 | **CPU Cooler** | Corsair H150i RGB ELITE |
 | **RAM** | Kingston FURY Renegade 32GB DDR5 6000MHz |
 | **Motherboard** | GIGABYTE Z690 AORUS ELITE AX |
