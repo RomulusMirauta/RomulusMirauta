@@ -128,11 +128,11 @@
 | **COMPONENT** | **SPECS** |
 | ----- | --- |
 | **CPU** | Intel Core i9-12900K |
-| **GPU** | MSI NVIDIA GeForce RTX 3080 GAMING Z TRIO 12GB |
+| **GPU** | MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB |
 | **CPU Cooler** | Corsair H150i RGB ELITE |
-| **RAM** | Kingston FURY Renegade 32GB DDR5 6000MHz |
+| **RAM** | Kingston FURY Renegade 32GB DDR5 6000MHz D-C |
 | **Motherboard** | GIGABYTE Z690 AORUS ELITE AX |
-| **Storage** | SSD Samsung 980 PRO 1TB PCI-E 4.0 M.2 2280 |
+| **Storage** | ***2x*** SSD Samsung 980 PRO 1TB PCI-E 4.0 M.2 2280 |
 | **Power Supply** | Thermaltake Toughpower GF, 80+ Gold, 850W |
 | **Case** | Corsair iCUE 4000X RGB Tempered Glass Black |
 
