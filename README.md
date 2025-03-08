@@ -154,9 +154,9 @@
 | ----- | --- |
 | **UPS** | *(Uninterruptible Power Supply)* Well Stark line-interactive 2000 VA / 1200 W |
 | **Monitors** | **2x** Benq EX2510S MOBIUZ, 24.5" *(both connected via DP cables => NVIDIA G-SYNC Compatible)* |
+| **Speaker** | JBL Charge 4 *(connected via audio cable, 3.5 mm jack => removes audio delays)* |
 | **Webcam** | Logitech HD Pro C920 |
 | **Docking Station** | Dell WD19S 180W |
-| **Speaker** | JBL Charge 4 *(connected via audio cable, 3.5 mm jack => removes audio delays)* |
 | **Gaming Chair** | Corsair T3 Rush Charcoal |
 | **Ethernet Cables** | **2x** NUODWELL CAT6, flat |
 
