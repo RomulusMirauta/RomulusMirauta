@@ -142,6 +142,8 @@
 
 
 
+<!-- 1 table, 1 photo, but no quality
+
 
 <table>
 <tr>
@@ -171,7 +173,7 @@
 </tr>
 </table>
 
-
+-->
 
 
 
