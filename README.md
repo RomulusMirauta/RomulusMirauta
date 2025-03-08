@@ -140,16 +140,6 @@
 
 
 
-
-
-
-
-| *- COMMON SETUP -* |
-| ----- |
-| • **UPS** ***(Uninterruptible Power Supply):*** Well Stark line-interactive 2000 VA / 1200 W <br> • **Monitors:** 2x Benq EX2510S MOBIUZ, 24.5" *(both connected via DP cables => NVIDIA G-SYNC Compatible)* <br> • **Audio Output:** JBL Charge 4 *(connected via audio cable, 3.5 mm jack => removes audio delays)* <br> • **Gaming Chair:** Corsair T3 Rush Charcoal <br> • **Ethernet Cables:** 2x NUODWELL CAT6, flat |
-
-
-
 | | ***- COMMON SETUP -*** |
 | ----- | --- |
 | **UPS** | *(Uninterruptible Power Supply)* Well Stark line-interactive 2000 VA / 1200 W |
@@ -157,8 +147,8 @@
 | **Speaker** | JBL Charge 4 *(connected via audio cable, 3.5 mm jack => removes audio delays)* |
 | **Webcam** | Logitech HD Pro C920 |
 | **Docking Station** | Dell WD19S 180W |
-| **Gaming Chair** | Corsair T3 Rush Charcoal |
 | **Ethernet Cables** | **2x** NUODWELL CAT6, flat |
+| **Gaming Chair** | Corsair T3 Rush Charcoal |
 
 
 
@@ -173,6 +163,15 @@
 | **OTHERS** |
 | ----- |
 | • JBL Endurance SPRINT, Black-Lime <br> • Samsung Galaxy S23+ <br> • Samsung Galaxy Watch6, 44mm, LTE, Graphite |  
+
+
+
+| **OTHERS** |
+| ----- |
+| • JBL Endurance SPRINT, Black-Lime |
+| • Samsung Galaxy S23+ |
+| • Samsung Galaxy Watch6, 44mm, LTE, Graphite |  
+
 
 
 
