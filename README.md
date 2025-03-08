@@ -127,13 +127,23 @@
 | [![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows) | 
 
 
-<p align="left">
 
 <a href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
-	<img src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png" 
+	<img align="left"
+		src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png" 
 		alt="PCGameBenchmark" />
 </a>
 
+
+
+
+
+
+
+
+| **PCGameBenchmark** |
+| ----- |
+| [![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows) | 
 
 
 
@@ -149,7 +159,7 @@
 | **Power Supply** | Thermaltake Toughpower GF, 80+ Gold, 850W |
 | **Case** | Corsair iCUE 4000X RGB Tempered Glass Black |
 
-</p>
+
 
 
 
