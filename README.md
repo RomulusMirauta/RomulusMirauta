@@ -144,7 +144,19 @@
 
 
 
-# Example Tables
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <table>
 <tr>
@@ -166,6 +178,50 @@
 </td>
 </tr>
 </table>
+
+
+
+
+
+
+
+
+<table>
+<tr>
+<td>
+
+<a href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
+	<img align="left"
+		src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png" 
+		alt="PCGameBenchmark" />
+</a>
+
+</td>
+<td>
+
+| **COMPONENT** | **SPECS** |
+| ----- | --- |
+| **CPU** | Intel Core i9 12900K |
+| **GPU** | MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB |
+| **CPU Cooler** | Corsair H150i RGB ELITE |
+| **RAM** | Kingston FURY Renegade RGB 32GB DDR5 6000MHz CL32 D-C Kit |
+| **Motherboard** | GIGABYTE Z690 AORUS ELITE AX |
+| **Storage** | SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280 |
+| **Power Supply** | Thermaltake Toughpower GF, 80+ Gold, 850W |
+| **Case** | Corsair iCUE 4000X RGB Tempered Glass Black |
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 
 <table>
@@ -193,6 +249,10 @@
 </td>
 </tr>
 </table>
+
+
+
+
 
 
 
