@@ -145,6 +145,19 @@
 
 
 
+# Example Table
+
+| Column 1 | Column 2 | Column 3        | Column 4 |
+|----------|----------|-----------------|----------|
+| Row 1    | Data 1   | Data 2          | Data 3   |
+| Row 2    | Data 4   | Data 5          |          |
+| Row 3    | Data 6   | Data 7          |          |
+|          |          | Column 3 Single Row |          |
+
+
+
+
+
 | **PCGameBenchmark** |
 | ----- |
 | [![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows) | 
