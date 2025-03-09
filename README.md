@@ -213,6 +213,52 @@
 
 
 
+<table>
+| **PCGameBenchmark** | **COMPONENT** | **SPECS** |
+| ----- | --- | --- |
+  <tr>
+    <td rowspan="8"> 
+		<a href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
+		<img src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png" 
+			alt="PCGameBenchmark" />
+		</a>
+	</td>
+    <td align="left"><b>CPU</b></td>
+    <td align="left">Intel Core i9-12900K</td>
+  </tr>
+  <tr>
+    <td align="left"><b>GPU</b></td>
+    <td align="left">MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB</td>
+  </tr>
+  <tr>
+	<td align="left"><b>CPU Cooler	</b></td>
+    <td align="left">Corsair H150i RGB ELITE</td>
+  </tr>
+  <tr>
+	<td align="left"><b>RAM</b></td>
+    <td align="left"><b><i>2x</b></i> Kingston FURY Renegade 16GB DDR5 6000MHz</td>
+  </tr>
+  <tr>
+	<td align="left">Motherboard<b></b></td>
+    <td align="left">GIGABYTE Z690 AORUS ELITE AX</td>
+  </tr>
+  <tr>
+	<td align="left"><b>Storage</b></td>
+    <td align="left"><b><i>2x</b></i> SSD Samsung 980 PRO 1TB PCI-E 4.0 M.2 2280</td>
+  </tr>
+  <tr>
+	<td align="left"><b>Power Supply</b></td>
+    <td align="left">Thermaltake Toughpower GF, 80+ Gold, 850W</td>
+  </tr>
+  <tr>
+	<td align="left"><b>Case</b></td>
+    <td align="left">Corsair iCUE 4000X RGB Tempered Glass Black</td>
+  </tr>
+</table>
+
+
+
+
 
 
 
