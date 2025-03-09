@@ -185,7 +185,7 @@
   </tr>
   <tr>
 	<td align="left"><b>RAM</b></td>
-    <td align="left"><b><i>2x</b></i> Kingston FURY Renegade 16GB DDR5 6000MHz</td>
+    <td align="left"><b><i>2x</b></i> Kingston FURY Renegade 16GB DDR5 6000MHz D-C Kit</td>
   </tr>
   <tr>
 	<td align="left">Motherboard<b></b></td>
