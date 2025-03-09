@@ -193,8 +193,62 @@
   </tr>
   
 
+  <tr>
+	</td>
+	<td colspan="2"> cell merged</td>
+    <td>Cell 3</td>
+  </tr>
+  
+
+</table>
 
 
+
+
+
+
+
+
+
+
+<table border="1">
+  <tr>
+    <td rowspan="8">Column 1, Row 1</td>
+    <td>Column 2, Row 1</td>
+    <td>Column 3, Row 1</td>
+  </tr>
+  <tr>
+    <td>Column 2, Row 2</td>
+    <td>Column 3, Row 2</td>
+  </tr>
+  <tr>
+    <td>Column 2, Row 3</td>
+    <td>Column 3, Row 3</td>
+  </tr>
+  <tr>
+    <td>Column 2, Row 4</td>
+    <td>Column 3, Row 4</td>
+  </tr>
+  <tr>
+    <td>Column 2, Row 5</td>
+    <td>Column 3, Row 5</td>
+  </tr>
+  <tr>
+    <td>Column 2, Row 6</td>
+    <td>Column 3, Row 6</td>
+  </tr>
+  <tr>
+    <td>Column 2, Row 7</td>
+    <td>Column 3, Row 7</td>
+  </tr>
+  <tr>
+    <td>Column 2, Row 8</td>
+    <td>Column 3, Row 8</td>
+  </tr>
+  <tr>
+    <td>Column 2, Row 9</td>
+    <td>Column 3, Row 9</td>
+  </tr>
 </table>
 
 
