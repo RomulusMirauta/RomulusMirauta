@@ -192,9 +192,9 @@
   <tr>
     <td rowspan="8"> 
 		<a href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
-		<img src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png" 
-			alt="PCGameBenchmark" style="width: auto; height: auto; max-width: 100%; max-height: 100%;" />
-		</a>
+        <img src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png" 
+             alt="PCGameBenchmark" style="width: auto; height: auto; max-width: 100%; max-height: 100%;" />
+      </a>
 	</td>
     <td align="left"><b>CPU</b></td>
     <td align="left">Intel Core i9-12900K</td>
