@@ -173,7 +173,7 @@
 		</a>
 	</td>
     <td align="left"><b>Column 2, Row 2</b></td>
-    <td align="left"><b>Column 3, Row 2</b></td>
+    <td align="left">Column 3, Row 2</td>
   </tr>
   <tr>
     <td>Column 2, Row 3</td>
