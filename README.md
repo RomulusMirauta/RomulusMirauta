@@ -213,11 +213,12 @@
 
 <table border="1">
   <tr>
-    <td>Column 2, Row 1</td>
+    <td>Column 1, Row 1</td>
     <td>Column 2, Row 1</td>
     <td>Column 3, Row 1</td>
   </tr>
   <tr>
+    <td rowspan="8">Merged Cells</td>
     <td>Column 2, Row 2</td>
     <td>Column 3, Row 2</td>
   </tr>
@@ -246,10 +247,11 @@
     <td>Column 3, Row 8</td>
   </tr>
   <tr>
-	<td rowspan="8">Column 2, Row 9</td>
+    <td>Column 2, Row 9</td>
     <td>Column 3, Row 9</td>
   </tr>
 </table>
+
 
 
 
