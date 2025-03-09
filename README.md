@@ -173,22 +173,18 @@
 
 
 <table>
-
   <tr>
     <td>Cell 1</td>
     <td>Cell 2</td>
   </tr>
-  
   <tr>
     <td>Cell 1</td>
     <td>Cell 2</td>
   </tr>
-  
   <tr>
     <td>Cell 1</td>
     <td>Cell 2</td>
   </tr>
-
 </table>
 
 
