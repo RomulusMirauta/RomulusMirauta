@@ -172,35 +172,35 @@
 			alt="PCGameBenchmark" />
 		</a>
 	</td>
-    <td align="left"><b>Column 2, Row 2</b></td>
+    <td align="left"><b>CPU</b></td>
     <td align="left">Column 3, Row 2</td>
   </tr>
   <tr>
-    <td align="left"><b>Column 2, Row 3</b></td>
+    <td align="left"><b>GPU</b></td>
     <td align="left">Column 3, Row 3</td>
   </tr>
   <tr>
-	<td align="left"><b>Column 2, Row 4</b></td>
+	<td align="left"><b>CPU Cooler	</b></td>
     <td align="left">Column 3, Row 4</td>
   </tr>
   <tr>
-	<td align="left"><b>Column 2, Row 5</b></td>
+	<td align="left"><b>RAM</b></td>
     <td align="left">Column 3, Row 5</td>
   </tr>
   <tr>
-	<td align="left"><b>Column 2, Row 6</b></td>
+	<td align="left">Motherboard<b></b></td>
     <td align="left">Column 3, Row 6</td>
   </tr>
   <tr>
-	<td align="left"><b>Column 2, Row 7</b></td>
+	<td align="left"><b>Storage</b></td>
     <td align="left">Column 3, Row 7</td>
   </tr>
   <tr>
-	<td align="left"><b>Column 2, Row 8</b></td>
+	<td align="left"><b>Power Supply</b></td>
     <td align="left">Column 3, Row 8</td>
   </tr>
   <tr>
-	<td align="left"><b>Column 2, Row 9</b></td>
+	<td align="left"><b>Case</b></td>
     <td align="left">Column 3, Row 9</td>
   </tr>
 </table>
