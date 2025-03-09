@@ -144,7 +144,7 @@
   </tr>
   <tr>
     <td align="left"><b>GPU</b></td>
-    <td align="left">MSI NVIDIA GeForce RTX 3080 GAMING Z TRIO LHR 12GB GDDR6X</td>
+    <td align="left">MSI NVIDIA GeForce RTX 3080 GAMING Z TRIO LHR 12GB</td>
   </tr>
   <tr>
 	<td align="left"><b>CPU Cooler	</b></td>
