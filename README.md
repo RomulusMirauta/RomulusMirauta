@@ -148,7 +148,7 @@
   </tr>
   <tr>
 	<td align="left"><b>CPU Cooler	</b></td>
-    <td align="left">Corsair H150i RGB ELITE</td>
+    <td align="left">Corsair iCUE H150i RGB ELITE 360mm AIO Liquid</td>
   </tr>
   <tr>
 	<td align="left"><b>RAM</b></td>
