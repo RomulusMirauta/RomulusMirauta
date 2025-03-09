@@ -175,18 +175,15 @@
 <table>
 
   <tr>
-    <td>Row 1</td>	
+    <td>Row 1</td>
+		
     <td>Row 2</td>
-
-  <tr>
-    <td>Cell 2</td>
-  </tr>
 
     <td>Row 3</td>
   </tr>
 
 
-  
+
 
 
 
