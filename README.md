@@ -167,9 +167,7 @@
   </tr>
   <tr>
     <td rowspan="8"> 
-	
 	[![PCGameBenchmark](https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png)](https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows) 
-	
 	</td>
     <td>Column 2, Row 2</td>
     <td>Column 3, Row 2</td>
