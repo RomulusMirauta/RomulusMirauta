@@ -151,21 +151,14 @@
 
 
 
-<style>
-  .original-size {
-    width: auto;
-    height: auto;
-    max-width: 100%;
-    max-height: 100%;
-  }
-</style>
+# Example Table with Image
 
-<table border="1">
+<table>
   <tr>
     <td>
       <a href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
         <img src="https://www.pcgamebenchmark.com/signature/intel-core-i9-12900k/32gb/nvidia-geforce-rtx-3080/twitch.png" 
-             alt="PCGameBenchmark" class="original-size" />
+             alt="PCGameBenchmark" style="width: auto; height: auto; max-width: 100%; max-height: 100%;" />
       </a>
     </td>
     <td>Column 2, Row 1</td>
@@ -175,6 +168,9 @@
     <td>Column 1, Row 2</td>
     <td>Column 2, Row 2</td>
     <td>Column 3, Row 2</td>
+  </tr>
+</table>
+
   
 
 
