@@ -4,6 +4,10 @@
 
 
 
+<!-- First line -->
+
+
+
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
 	<img align="left"
 		src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
@@ -53,9 +57,10 @@
 </a>
 
 
-
 <br><br>
 
+
+<!-- Additional -->
 
 
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
@@ -66,6 +71,9 @@
 
 
 <br>
+
+
+<!-- GitHub Stats -->
 
 
 <a href="#">
@@ -99,6 +107,9 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
+<!-- Additional 2 -->
+
+
 <p align="center">
 	<i>Visitor count</i><br>
 	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
@@ -109,9 +120,10 @@
 <hr>
 
 
+<!-- MY SETUP -->
+
 
 # My Setup
-
 
 
 <table>
@@ -149,6 +161,26 @@
 
 
 
+<table>
+  <tr>
+    <td>Cell 1</td>
+    <td>Cell 2</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
 
 | **PCGameBenchmark** |
 | ----- |
@@ -167,7 +199,7 @@
 | **Power Supply** | Thermaltake Toughpower GF, 80+ Gold, 850W |
 | **Case** | Corsair iCUE 4000X RGB Tempered Glass Black |
 
-
+</table>
 
 
 
@@ -216,6 +248,8 @@
 
 <hr>
 
+
+<!-- Additional 3 -->
 
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
