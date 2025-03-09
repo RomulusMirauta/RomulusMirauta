@@ -215,6 +215,7 @@
   <tr>
     <td rowspan="8">Column 1, Row 1</td>
     <td>Column 2, Row 1</td>
+    <td>Column 2, Row 1</td>
     <td>Column 3, Row 1</td>
   </tr>
   <tr>
@@ -246,7 +247,7 @@
     <td>Column 3, Row 8</td>
   </tr>
   <tr>
-    <td>Column 2, Row 9</td>
+	<td rowspan="8">Column 2, Row 9</td>
     <td>Column 3, Row 9</td>
   </tr>
 </table>
