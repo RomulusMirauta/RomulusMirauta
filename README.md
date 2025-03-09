@@ -177,16 +177,13 @@
   <tr>
     <td>Cell 1</td>
     <td>Cell 2</td>
+    <td>Cell 3</td>
   </tr>
 
   <tr>
     <td>Cell 1</td>
     <td>Cell 2</td>
-  </tr>
-
-  <tr>
-    <td>Cell 1</td>
-    <td>Cell 2</td>
+    <td>Cell 3</td>
   </tr>
 
 </table>
