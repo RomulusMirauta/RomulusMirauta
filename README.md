@@ -144,7 +144,7 @@
   </tr>
   <tr>
     <td align="left"><b>GPU</b></td>
-    <td align="left">MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB</td>
+    <td align="left">MSI NVIDIA GeForce RTX 3080 GAMING Z TRIO LHR 12GB GDDR6X 384-bit</td>
   </tr>
   <tr>
 	<td align="left"><b>CPU Cooler	</b></td>
@@ -152,7 +152,7 @@
   </tr>
   <tr>
 	<td align="left"><b>RAM</b></td>
-    <td align="left"><b><i>2x</b></i> Kingston FURY Renegade 16GB DDR5 6000MHz D-C Kit</td>
+    <td align="left"><b><i>2x</b></i> Kingston FURY Renegade 16GB DDR5 6000MHz Dual-Channel Kit</td>
   </tr>
   <tr>
 	<td align="left">Motherboard<b></b></td>
