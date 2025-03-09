@@ -161,7 +161,7 @@
 
 <table>
   <tr>
-    <td><b>PCGameBenchmark</b></td>
+    <td><b><th align="center">PCGameBenchmark</th></b></td>
     <td>Column 2, Row 1</td>
     <td>Column 3, Row 1</td>
   </tr>
