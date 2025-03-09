@@ -217,7 +217,6 @@
 
 | **PCGameBenchmark** | **COMPONENT** | **SPECS** |
 | ----- | --- | --- |
-
   <tr>
     <td rowspan="8"> 
 		<a href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-12900k&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows">
