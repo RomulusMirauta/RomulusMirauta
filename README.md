@@ -160,7 +160,7 @@
   </tr>
   <tr>
 	<td align="left"><b>Storage</b></td>
-    <td align="left"><b><i>2x</b></i> SSD Samsung 980 PRO 1TB PCI-E 4.0 M.2 2280</td>
+    <td align="left"><b><i>2x</b></i> SSD Samsung 980 PRO 1TB NVMe PCI-E 4.0 M.2 2280</td>
   </tr>
   <tr>
 	<td align="left"><b>Power Supply</b></td>
