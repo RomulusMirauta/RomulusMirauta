@@ -162,8 +162,8 @@
 <table>
   <tr>
     <td align="center"><b>PCGameBenchmark</b></td>
-    <td>Column 2, Row 1</td>
-    <td>Column 3, Row 1</td>
+	<td align="center"><b>COMPONENT</b></td>
+	<td align="center"><b>SPECS</b></td>
   </tr>
   <tr>
     <td rowspan="8"> 
