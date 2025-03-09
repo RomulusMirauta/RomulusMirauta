@@ -174,9 +174,6 @@
 
 
 
-
-
-
 | | **WORK SETUP** | **GAMING SETUP** |
 | ----- | --- | --- |
 | **Keyboard** | Logitech MX Keys S | SteelSeries Apex 5 *(key switches: SteelSeries Hybrid Blue)* |
@@ -204,6 +201,7 @@
 
 
 <hr>
+
 
 
 <!-- Additional 3 -->
