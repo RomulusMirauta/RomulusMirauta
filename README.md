@@ -140,7 +140,7 @@
 		</a>
 	</td>
     <td align="left"><b>CPU</b></td>
-    <td align="left">Intel Core i9-12900K, Alder Lake, 16 Cores (8P + 8E), 24 Threads</td>
+    <td align="left">Intel Core i9-12900K, AL, 16 Cores (8P + 8E), 24 Threads</td>
   </tr>
   <tr>
     <td align="left"><b>GPU</b></td>
