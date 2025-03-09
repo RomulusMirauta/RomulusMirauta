@@ -176,19 +176,25 @@
 
   <tr>
     <td>Row 1</td>
+	
+  <tr>
+    <td>Cell 1</td>
+  </tr>
+	
     <td>Row 2</td>
+
+  <tr>
+    <td>Cell 2</td>
+  </tr>
+
     <td>Row 3</td>
   </tr>
 
 
   
-  <tr>
-    <td>Cell 1</td>
-  </tr>
 
-  <tr>
-    <td>Cell 2</td>
-  </tr>
+
+
 
 
 </table>
