@@ -177,31 +177,31 @@
   </tr>
   <tr>
     <td align="left"><b>Column 2, Row 3</b></td>
-    <td>Column 3, Row 3</td>
+    <td align="left">Column 3, Row 3</td>
   </tr>
   <tr>
 	<td align="left"><b>Column 2, Row 4</b></td>
-    <td>Column 3, Row 4</td>
+    <td align="left">Column 3, Row 4</td>
   </tr>
   <tr>
 	<td align="left"><b>Column 2, Row 5</b></td>
-    <td>Column 3, Row 5</td>
+    <td align="left">Column 3, Row 5</td>
   </tr>
   <tr>
 	<td align="left"><b>Column 2, Row 6</b></td>
-    <td>Column 3, Row 6</td>
+    <td align="left">Column 3, Row 6</td>
   </tr>
   <tr>
 	<td align="left"><b>Column 2, Row 7</b></td>
-    <td>Column 3, Row 7</td>
+    <td align="left">Column 3, Row 7</td>
   </tr>
   <tr>
 	<td align="left"><b>Column 2, Row 8</b></td>
-    <td>Column 3, Row 8</td>
+    <td align="left">Column 3, Row 8</td>
   </tr>
   <tr>
 	<td align="left"><b>Column 2, Row 9</b></td>
-    <td>Column 3, Row 9</td>
+    <td align="left">Column 3, Row 9</td>
   </tr>
 </table>
 
