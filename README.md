@@ -213,7 +213,6 @@
 
 <table border="1">
   <tr>
-    <td rowspan="8">Column 1, Row 1</td>
     <td>Column 2, Row 1</td>
     <td>Column 2, Row 1</td>
     <td>Column 3, Row 1</td>
