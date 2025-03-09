@@ -193,13 +193,44 @@
   </tr>
 
 
-
-
-
-
-
-
 </table>
+
+
+
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+  <tr>
+    <td>Row 2, Cell 1</td>
+    <td colspan="2">Row 2, Cell 2 and 3 merged</td>
+  </tr>
+  <tr>
+    <td>Row 3, Cell 1</td>
+    <td>Row 3, Cell 2</td>
+    <td>Row 3, Cell 3</td>
+  </tr>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
