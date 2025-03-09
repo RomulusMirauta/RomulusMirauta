@@ -214,7 +214,6 @@
 
 
 <table>
-
 | **PCGameBenchmark** | **COMPONENT** | **SPECS** |
 | ----- | --- | --- |
   <tr>
