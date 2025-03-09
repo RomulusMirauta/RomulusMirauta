@@ -185,7 +185,7 @@
   </tr>
   <tr>
 	<td align="left"><b>RAM</b></td>
-    <td align="left">2x Kingston FURY Renegade 16GB DDR5 6000MHz</td>
+    <td align="left"><b><i>2x</b></i> Kingston FURY Renegade 16GB DDR5 6000MHz</td>
   </tr>
   <tr>
 	<td align="left">Motherboard<b></b></td>
@@ -193,7 +193,7 @@
   </tr>
   <tr>
 	<td align="left"><b>Storage</b></td>
-    <td align="left">2x SSD Samsung 980 PRO 1TB PCI-E 4.0 M.2 2280</td>
+    <td align="left"><b><i>2x</b></i> SSD Samsung 980 PRO 1TB PCI-E 4.0 M.2 2280</td>
   </tr>
   <tr>
 	<td align="left"><b>Power Supply</b></td>
