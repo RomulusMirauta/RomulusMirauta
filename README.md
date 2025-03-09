@@ -142,7 +142,7 @@
 | **CPU** | Intel Core i9-12900K |
 | **GPU** | MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB |
 | **CPU Cooler** | Corsair H150i RGB ELITE |
-| **RAM** | ***2x*** Kingston FURY Renegade 16GB DDR5 6000MHz D-C Kitttttt|
+| **RAM** | ***2x*** Kingston FURY Renegade 16GB DDR5 6000MHz |
 | **Motherboard** | GIGABYTE Z690 AORUS ELITE AX |
 | **Storage** | ***2x*** SSD Samsung 980 PRO 1TB PCI-E 4.0 M.2 2280 |
 | **Power Supply** | Thermaltake Toughpower GF, 80+ Gold, 850W |
@@ -185,7 +185,7 @@
   </tr>
   <tr>
 	<td align="left"><b>RAM</b></td>
-    <td align="left"><b><i>2x</b></i> Kingston FURY Renegade 16GB DDR5 6000MHz D-C Kitttttttt</td>
+    <td align="left"><b><i>2x</b></i> Kingston FURY Renegade 16GB DDR5 6000MHz D-C Kit</td>
   </tr>
   <tr>
 	<td align="left">Motherboard<b></b></td>
