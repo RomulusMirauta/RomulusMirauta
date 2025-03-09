@@ -211,7 +211,7 @@
 
 
 
-<table border="1">
+<table>
   <tr>
     <td>Column 1, Row 1</td>
     <td>Column 2, Row 1</td>
