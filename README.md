@@ -178,8 +178,14 @@
     <td>Row 1</td>
     <td>Row 2</td>
     <td>Row 3</td>
-	<td>Row 3</td>
   </tr>
+  
+  <tr>
+    <td>Cell 1</td>
+    <td>Cell 2</td>
+  </tr>
+
+
 
 
 
