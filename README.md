@@ -71,7 +71,7 @@
 
 
 <a href="https://user-badge.committers.top/romania_public/RomulusMirauta">
-	<img align="left"
+	<img align="right"
 		src="https://user-badge.committers.top/romania_public/RomulusMirauta.svg" 
 		alt="RANK - Most active GitHub users in Romania" />
 </a>
