@@ -63,6 +63,7 @@
 <!-- Additional -->
 
 
+<!-- Commits -->
 <a href="https://user-badge.committers.top/romania/RomulusMirauta">
 	<img align="left"
 		src="https://user-badge.committers.top/romania/RomulusMirauta.svg" 
@@ -70,6 +71,9 @@
 </a>
 
 
+<!--
+
+<!-- Contributions
 <a href="https://user-badge.committers.top/romania_public/RomulusMirauta">
 	<img align="left"
 		src="https://user-badge.committers.top/romania_public/RomulusMirauta.svg" 
@@ -77,11 +81,14 @@
 </a>
 
 
+<!-- All
 <a href="https://user-badge.committers.top/romania_private/RomulusMirauta">
 	<img align="right"
 		src="https://user-badge.committers.top/romania_private/RomulusMirauta.svg" 
 		alt="RANK - Most active GitHub users in Romania" />
 </a>
+
+-->
 
 
 <br>
