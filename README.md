@@ -168,7 +168,7 @@
     <td align="left">MSI NVIDIA GeForce RTX 3080 GAMING Z TRIO LHR 12GB</td>
   </tr>
   <tr>
-	<td align="left"><b>CPU Cooler	</b></td>
+	<td align="left"><b>CPU Cooler</b></td>
     <td align="left">Corsair iCUE H150i RGB ELITE 360mm AIO Liquid</td>
   </tr>
   <tr>
@@ -176,7 +176,7 @@
     <td align="left"><b><i>2x</b></i> Kingston FURY Renegade 16GB DDR5 6000MHz D-C Kit</td>
   </tr>
   <tr>
-	<td align="left">Motherboard<b></b></td>
+	<td align="left"><b>Motherboard</b></td>
     <td align="left">GIGABYTE Z690 AORUS ELITE AX</td>
   </tr>
   <tr>
