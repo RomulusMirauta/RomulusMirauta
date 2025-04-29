@@ -62,7 +62,7 @@
 
 
 <a href="https://wa.me/40757855838">
-	<img align="left"
+	<img align="right"
 		src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
 		alt="WhatsApp" />
 </a>
