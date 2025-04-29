@@ -67,10 +67,11 @@
 		alt="WhatsApp" />
 </a>
 
-<br></p>
+<br><br>
+</p>
 
 
-<p align="center">
+<p align="left">
 
 
 <a href="https://www.paypal.com/paypalme/RomulusMirauta">
