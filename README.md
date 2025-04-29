@@ -30,7 +30,7 @@
 		src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
 		alt="HackerRank" />
 </a>
-<br>
+
 
 <a href="https://calendly.com/romulus-mirauta/1-hour-meeting">
 	<img align="center"
