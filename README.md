@@ -70,7 +70,7 @@
 <br></p>
 
 
-<p align="left">
+<p align="center">
 
 
 <a href="https://www.paypal.com/paypalme/RomulusMirauta">
