@@ -71,29 +71,24 @@
 </p>
 
 
-
-
 <h6  align="center">
 
+<a href="https://www.paypal.com/paypalme/RomulusMirauta">
+	<img align="left"
+		src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" 
+		alt="PayPal" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://hsreplay.net/collection/2/54480468/">
 	<img align="center"
 		src="https://img.shields.io/badge/Hearthstone%20Collection-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white" 
 		alt="Hearthstone Collection" />
 </a>
-&nbsp;&nbsp;&nbsp;
-
-
-<a href="https://www.paypal.com/paypalme/RomulusMirauta">
-	<img align="center"
-		src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" 
-		alt="PayPal" />
-</a>
-&nbsp;&nbsp;&nbsp;
 
 
 <a href="https://buymeacoffee.com/romulusmirauta">
-	<img align="center"
+	<img align="right"
 		src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" 
 		alt="Buy Me a Coffee" />
 </a>
