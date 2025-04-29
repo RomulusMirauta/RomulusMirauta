@@ -41,21 +41,21 @@
 
 
 <a href="https://docs.google.com/document/d/1b2vt_GqHarnpi5ee7XQQPeUnvB5h7ksj43ciZZqfpwE/">
-	<img align="left"
+	<img align="center"
 		src="https://img.shields.io/badge/_CV_-CV1?style=for-the-badge&color=silver"
 		alt="RESUME" />
 </a>
 
 
 <a href="https://www.linkedin.com/in/romulus-mirauta/">
-	<img align="left"
+	<img align="right"
 		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
 		alt="LinkedIn" />
 </a>
 
 
 <a href="mailto:romulus.mirauta1@gmail.com">
-	<img align="left"
+	<img align="right"
 		src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
 		alt="Gmail" />
 </a>
