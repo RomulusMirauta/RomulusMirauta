@@ -74,15 +74,6 @@
 <p align="center">
 
 
-
-
-<a href="https://buymeacoffee.com/romulusmirauta">
-	<img align="left"
-		src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" 
-		alt="Buy Me a Coffee" />
-</a>
-
-
 <a href="https://www.paypal.com/paypalme/RomulusMirauta">
 	<img align="center"
 		src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" 
@@ -90,11 +81,17 @@
 </a>
 
 
-
 <a href="https://hsreplay.net/collection/2/54480468/">
-	<img align="right"
+	<img align="center"
 		src="https://img.shields.io/badge/Hearthstone%20Collection-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white" 
 		alt="Hearthstone Collection" />
+</a>
+
+
+<a href="https://buymeacoffee.com/romulusmirauta">
+	<img align="center"
+		src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" 
+		alt="Buy Me a Coffee" />
 </a>
 
 
