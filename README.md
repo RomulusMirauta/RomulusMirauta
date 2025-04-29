@@ -7,17 +7,19 @@
 <!-- First line -->
 
 
-<h6  align="center">
+<p align="center">
 
 <a href="https://linktr.ee/romulus_mirauta">
 	<img align="center"
 		src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" 
 		alt="Linktree" />
 </a>
-</h6>
 
 
-<br>
+</p>
+
+
+
 
 
 <h6  align="center">
