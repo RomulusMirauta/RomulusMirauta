@@ -15,10 +15,10 @@
 		alt="Linktree" />
 </a>
 
-
 </p>
 
-
+<p align="left">
+	
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
 	<img align="left"
 		src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
@@ -40,16 +40,9 @@
 </a>
 
 
-<a href="https://hsreplay.net/collection/2/54480468/">
-	<img align="left"
-		src="https://img.shields.io/badge/Hearthstone-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white" 
-		alt="Hearthstone Collection" />
-</a>
-
-
 <a href="https://docs.google.com/document/d/1b2vt_GqHarnpi5ee7XQQPeUnvB5h7ksj43ciZZqfpwE/">
 	<img align="left"
-		src="https://img.shields.io/badge/_CV_-CV1?style=for-the-badge&color=silver"
+		src="https://img.shields.io/badge/_RESUME_-CV1?style=for-the-badge&color=silver"
 		alt="RESUME" />
 </a>
 
@@ -67,6 +60,41 @@
 		alt="Gmail" />
 </a>
 
+
+<a href="https://wa.me/40757855838">
+	<img align="left"
+		src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+		alt="WhatsApp" />
+</a>
+
+<br></p>
+
+
+<p align="center">
+
+
+<a href="https://www.paypal.com/paypalme/RomulusMirauta">
+	<img align="left"
+		src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" 
+		alt="PayPal" />
+</a>
+
+
+<a href="https://hsreplay.net/collection/2/54480468/">
+	<img align="left"
+		src="https://img.shields.io/badge/Hearthstone%20Collection-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white" 
+		alt="Hearthstone Collection" />
+</a>
+
+
+<a href="https://buymeacoffee.com/romulusmirauta">
+	<img align="left"
+		src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" 
+		alt="Buy Me a Coffee" />
+</a>
+
+
+</p>
 
 <br><br>
 
