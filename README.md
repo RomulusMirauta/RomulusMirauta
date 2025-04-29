@@ -7,6 +7,14 @@
 <!-- First line -->
 
 
+<h6  align="center">
+
+<a href="https://linktr.ee/romulus_mirauta">
+	<img align="left"
+		src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" 
+		alt="Linktree" />
+</a>
+
 
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
 	<img align="left"
@@ -55,6 +63,9 @@
 		src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
 		alt="Gmail" />
 </a>
+
+
+</h6>
 
 
 <br><br>
