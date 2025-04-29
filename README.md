@@ -42,7 +42,7 @@
 
 <a href="https://docs.google.com/document/d/1b2vt_GqHarnpi5ee7XQQPeUnvB5h7ksj43ciZZqfpwE/">
 	<img align="center"
-		src="https://img.shields.io/badge/_CV_-CV1?style=for-the-badge&color=silver"
+		src="https://img.shields.io/badge/_RESUME_-CV1?style=for-the-badge&color=silver"
 		alt="RESUME" />
 </a>
 
