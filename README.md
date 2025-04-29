@@ -22,7 +22,7 @@
 
 
 
-<p align="left">
+
 
 
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
@@ -74,7 +74,7 @@
 </a>
 
 
-</p>
+
 
 
 <br><br>
