@@ -67,8 +67,7 @@
 		alt="WhatsApp" />
 </a>
 
-<br><br>
-</p>
+<br></p>
 
 
 <p align="left">
