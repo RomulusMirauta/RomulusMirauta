@@ -47,10 +47,10 @@
 </a>
 
 
-<a href="https://www.linkedin.com/in/romulus-mirauta/">
+<a href="https://wa.me/40757855838">
 	<img align="right"
-		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-		alt="LinkedIn" />
+		src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+		alt="WhatsApp" />
 </a>
 
 
@@ -61,14 +61,14 @@
 </a>
 
 
-<a href="https://wa.me/40757855838">
+<a href="https://www.linkedin.com/in/romulus-mirauta/">
 	<img align="right"
-		src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
-		alt="WhatsApp" />
+		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+		alt="LinkedIn" />
 </a>
 
 
-<br></p>
+</p>
 
 
 <p align="center">
