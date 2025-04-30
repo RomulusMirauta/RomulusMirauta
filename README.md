@@ -14,10 +14,13 @@
 		alt="Linktree" />
 </a>
 
+
 </h6>
 
-<p align="center">
-	
+
+<h6  align="center">
+
+
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
 	<img align="left"
 		src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
@@ -67,7 +70,7 @@
 </a>
 
 
-</p>
+</h6>
 
 
 <h6  align="center">
