@@ -6,7 +6,9 @@
 
 <!-- First line -->
 
-<p align="center">
+
+<h6  align="center">
+
 
 <a href="https://linktr.ee/romulus_mirauta">
 	<img align="center"
@@ -15,7 +17,7 @@
 </a>
 
 
-</p>
+</h6>
 
 
 <h6  align="center">
@@ -74,6 +76,7 @@
 
 
 <h6  align="center">
+
 
 <a href="https://www.paypal.com/paypalme/RomulusMirauta">
 	<img align="left"
