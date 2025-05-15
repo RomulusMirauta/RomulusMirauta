@@ -261,7 +261,7 @@
 
 | **OTHERS** |
 | ----- |
-| • JBL Endurance SPRINT, Black-Lime <br> • Samsung Galaxy S25+ <br> • Samsung Galaxy Watch 6, 44mm, LTE, Graphite |
+| • JBL Endurance SPRINT, Black-Lime <br> • JBL Endurance PEAK 3, Black <br> • Samsung Galaxy S25+ <br> • Samsung Galaxy Watch 6, 44mm, LTE, Graphite |
 
 
 
