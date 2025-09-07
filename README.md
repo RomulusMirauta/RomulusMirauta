@@ -3,9 +3,23 @@
 <!-- https://shields.io/badges -->
 
 
-
 <!-- First line -->
 
+
+<h6  align="center">
+
+
+<a href="https://linktr.ee/romulus_mirauta">
+	<img align="center"
+		src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" 
+		alt="Linktree" />
+</a>
+
+
+</h6>
+
+
+<h6  align="center">
 
 
 <a href="https://www.hackerrank.com/profile/RomulusMirauta">
@@ -29,35 +43,65 @@
 </a>
 
 
-<a href="https://hsreplay.net/collection/2/54480468/">
-	<img align="left"
-		src="https://img.shields.io/badge/Hearthstone-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white" 
-		alt="Hearthstone Collection" />
-</a>
-
-
 <a href="https://docs.google.com/document/d/1b2vt_GqHarnpi5ee7XQQPeUnvB5h7ksj43ciZZqfpwE/">
-	<img align="left"
-		src="https://img.shields.io/badge/_CV_-CV1?style=for-the-badge&color=silver"
+	<img align="center"
+		src="https://img.shields.io/badge/_RESUME_-CV1?style=for-the-badge&color=silver"
 		alt="RESUME" />
 </a>
 
 
-<a href="https://www.linkedin.com/in/romulus-mirauta/">
-	<img align="left"
-		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-		alt="LinkedIn" />
+<a href="https://wa.me/40757855838">
+	<img align="right"
+		src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+		alt="WhatsApp" />
 </a>
 
 
 <a href="mailto:romulus.mirauta1@gmail.com">
-	<img align="left"
+	<img align="right"
 		src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
 		alt="Gmail" />
 </a>
 
 
-<br><br>
+<a href="https://www.linkedin.com/in/romulus-mirauta/">
+	<img align="right"
+		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+		alt="LinkedIn" />
+</a>
+
+
+</h6>
+
+
+<h6  align="center">
+
+
+<a href="https://www.paypal.com/paypalme/RomulusMirauta">
+	<img align="left"
+		src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" 
+		alt="PayPal" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://hsreplay.net/collection/2/54480468/">
+	<img align="center"
+		src="https://img.shields.io/badge/Hearthstone%20Collection-%23FA830D.svg?style=for-the-badge&logo=hearthstone-collection&logoColor=white" 
+		alt="Hearthstone Collection" />
+</a>
+
+
+<a href="https://buymeacoffee.com/romulusmirauta">
+	<img align="right"
+		src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" 
+		alt="Buy Me a Coffee" />
+</a>
+
+
+</h6>
+
+
+<br>
 
 
 <!-- Additional -->
@@ -217,7 +261,7 @@
 
 | **OTHERS** |
 | ----- |
-| • JBL Endurance SPRINT, Black-Lime <br> • Samsung Galaxy S23+ <br> • Samsung Galaxy Watch 6, 44mm, LTE, Graphite |
+| • JBL Endurance SPRINT, Black-Lime <br> • JBL Endurance PEAK 3, Black <br> • Samsung Galaxy S25+ <br> • Samsung Galaxy Watch 6, 44mm, LTE, Graphite |
 
 
 
@@ -239,3 +283,26 @@
 
 
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
