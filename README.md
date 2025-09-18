@@ -143,14 +143,14 @@
 
 <a href="#">
 	<img align="left" height=182
-		src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=43200&custom_title=My&nbsp;GitHub&nbsp;Stats&card_width=460"
+		src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=21600&custom_title=My&nbsp;GitHub&nbsp;Stats&card_width=460"
 		alt="GitHub Stats" />
 </a>
 
 
 <a href="https://gh-stats-gen.vercel.app/">
 	<img align="right" height=513
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=43200&&langs_count=20&card_width=290"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=21600&&langs_count=20&card_width=290"
 		alt="GitHub Top Languages" />
 </a>
 
@@ -158,7 +158,7 @@
 
 <a href="#">
 	<img align="left" height=182
-		src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false&cache_seconds=43200&card_width=460"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false&cache_seconds=21600&card_width=460"
 		alt="GitHub Streak" />
 </a>
 
