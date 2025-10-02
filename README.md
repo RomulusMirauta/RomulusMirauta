@@ -164,7 +164,7 @@
 
 
 <a href="#">
-	<img align="left" height=109
+	<img align="left" height=108
 		src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Repositories,Followers,Commits,MultiLanguage&column=-1" />
 		<!-- src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Repositories,Followers,Commits&column=-1" /> -->
 </a>
