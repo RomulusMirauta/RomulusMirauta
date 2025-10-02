@@ -142,14 +142,14 @@
 
 
 <a href="#">
-	<img align="left" height=413
+	<img align="left" height=182
 		src="https://github-readme-stats.vercel.app/api?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&count_private=true&cache_seconds=21600&custom_title=My&nbsp;GitHub&nbsp;Stats&card_width=460"
 		alt="GitHub Stats" />
 </a>
 
 
 <a href="https://gh-stats-gen.vercel.app/">
-	<img align="right" height=413
+	<img align="right" height=513
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=21600&&langs_count=20&card_width=290"
 		alt="GitHub Top Languages" />
 </a>
@@ -157,14 +157,14 @@
 
 
 <a href="#">
-	<img align="left" height=1820000
+	<img align="left" height=182
 		src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false&cache_seconds=21600&card_width=460"
 		alt="GitHub Streak" />
 </a>
 
 
 <a href="#">
-	<img align="left" height=10800000
+	<img align="left" height=108
 		src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Repositories,Followers,Commits,MultiLanguage&column=-1" />
 		<!-- src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Repositories,Followers,Commits&column=-1" /> -->
 </a>
