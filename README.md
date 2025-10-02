@@ -149,7 +149,7 @@
 
 
 <a href="https://gh-stats-gen.vercel.app/">
-	<img align="right" height=513
+	<img align="right" height=5130000
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulusMirauta&theme=dark&show_icons=true&hide_border=false&layout=pie&cache_seconds=21600&&langs_count=20&card_width=290"
 		alt="GitHub Top Languages" />
 </a>
@@ -164,7 +164,7 @@
 
 
 <a href="#">
-	<img align="left" height=108
+	<img align="left" height=10800000
 		src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Repositories,Followers,Commits,MultiLanguage&column=-1" />
 		<!-- src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Repositories,Followers,Commits&column=-1" /> -->
 </a>
