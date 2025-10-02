@@ -169,7 +169,7 @@
 </a>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 <!-- Additional 2 -->
@@ -181,7 +181,7 @@
 
 
 <p align="center">
-	<i>Visitor counter</i><br>
+	<i>Visitor counter</i><br><br>
 	<a href="https://u8views.com/github/RomulusMirauta"><img src="https://u8views.com/api/v1/github/profiles/181910713/views/day-week-month-total-count.svg"></a>
 </p>
 
