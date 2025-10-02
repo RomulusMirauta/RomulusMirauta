@@ -169,15 +169,20 @@
 </a>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 <!-- Additional 2 -->
 
 
+
+
+
+
+
 <p align="center">
-	<i>Visitor count</i><br>
-	<img src="https://profile-counter.glitch.me/RomulusMirauta/count.svg" />
+	<i>Visitor counter</i><br><br>
+	<a href="https://u8views.com/github/RomulusMirauta"><img src="https://u8views.com/api/v1/github/profiles/181910713/views/day-week-month-total-count.svg"></a>
 </p>
 
 
@@ -283,23 +288,3 @@
 
 
 -->
-
-
-
-
-[![Romulus Mirăuță profile views](https://u8views.com/api/v1/github/profiles/181910713/views/day-week-month-total-count.svg)](https://u8views.com/github/RomulusMirauta)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
