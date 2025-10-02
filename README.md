@@ -176,19 +176,9 @@
 
 
 
-
-
-
-
-<p align="center">
-	<i>Visitor counter</i>
-</p>
-
 <p align="center">
 	<a href="https://u8views.com/github/RomulusMirauta"><img src="https://u8views.com/api/v1/github/profiles/181910713/views/day-week-month-total-count.svg"></a>
 </p>
-
-
 
 
 
