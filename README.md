@@ -157,14 +157,14 @@
 
 
 <a href="#">
-	<img align="left" width=500
+	<img align="left" height=182
 		src="https://github-readme-streak-stats.herokuapp.com/?user=RomulusMirauta&theme=dark&hide_border=false&cache_seconds=21600&card_width=460"
 		alt="GitHub Streak" />
 </a>
 
 
 <a href="#">
-	<img align="left" height=107.5
+	<img align="left" width=107.5
 		src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Repositories,Followers,Commits,MultiLanguage&column=-1" />
 		<!-- src="https://github-profile-trophy.vercel.app/?username=RomulusMirauta&theme=darkhub&no-frame=false&title=Repositories,Followers,Commits&column=-1" /> -->
 </a>
